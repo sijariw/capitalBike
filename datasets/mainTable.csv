@@ -1,0 +1,732 @@
+﻿instance,casual,registered,count,season,year,month,holiday,weekday,workingday,weathertype,tempdenorm,acttempdenorm,humiditydenorm,windspeeddenorm
+1,331,654,985,Spring,Year 2011,Jan,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,14.110847,18.18125,80.5833,10.749882
+2,131,670,801,Spring,Year 2011,Jan,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,14.902598,17.68695,69.6087,16.652113
+3,120,1229,1349,Spring,Year 2011,Jan,Not A Holiday,Mon,Working Day,Clear:Good,8.050924,9.47025,43.7273,16.636703
+4,108,1454,1562,Spring,Year 2011,Jan,Not A Holiday,Tues,Working Day,Clear:Good,8.2,10.6061,59.0435,10.739832
+5,82,1518,1600,Spring,Year 2011,Jan,Not A Holiday,Wed,Working Day,Clear:Good,9.305237,11.4635,43.6957,12.5223
+6,88,1518,1606,Spring,Year 2011,Jan,Not A Holiday,Thr,Working Day,Clear:Good,8.378268,11.66045,51.8261,6.0008684
+7,148,1362,1510,Spring,Year 2011,Jan,Not A Holiday,Fri,Working Day,Cloudy:Adequet,8.057402,10.44195,49.8696,11.304642
+8,68,891,959,Spring,Year 2011,Jan,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,6.765,8.1127,53.5833,17.875868
+9,54,768,822,Spring,Year 2011,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,5.671653,5.80875,43.4167,24.25065
+10,41,1280,1321,Spring,Year 2011,Jan,Not A Holiday,Mon,Working Day,Clear:Good,6.184153,7.5444,48.2917,14.958889
+11,43,1220,1263,Spring,Year 2011,Jan,Not A Holiday,Tues,Working Day,Cloudy:Adequet,6.932731,9.5732,68.6364,8.182844
+12,25,1137,1162,Spring,Year 2011,Jan,Not A Holiday,Wed,Working Day,Clear:Good,7.081807,8.02365,59.9545,20.410009
+13,38,1368,1406,Spring,Year 2011,Jan,Not A Holiday,Thr,Working Day,Clear:Good,6.765,7.54415,47.0417,20.167
+14,54,1367,1421,Spring,Year 2011,Jan,Not A Holiday,Fri,Working Day,Clear:Good,6.59567,9.42065,53.7826,8.478716
+15,222,1026,1248,Spring,Year 2011,Jan,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,9.566653,12.4056,49.875,10.583521
+16,251,953,1204,Spring,Year 2011,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,9.498347,11.71085,48.375,12.625011
+17,117,883,1000,Spring,Year 2011,Jan,Holiday,Mon,Not A Working Day,Cloudy:Adequet,7.209153,8.83855,53.75,12.999139
+18,9,674,683,Spring,Year 2011,Jan,Not A Holiday,Tues,Working Day,Cloudy:Adequet,8.883347,11.61665,86.1667,9.833925
+19,78,1572,1650,Spring,Year 2011,Jan,Not A Holiday,Wed,Working Day,Cloudy:Adequet,11.979134,14.9211,74.1739,13.957239
+20,83,1844,1927,Spring,Year 2011,Jan,Not A Holiday,Thr,Working Day,Cloudy:Adequet,10.728347,12.7525,53.8333,13.125568
+21,75,1468,1543,Spring,Year 2011,Jan,Not A Holiday,Fri,Working Day,Clear:Good,7.2775,7.89165,45.7083,23.667214
+22,93,888,981,Spring,Year 2011,Jan,Not A Holiday,Sat,Not A Working Day,Clear:Good,2.4243464,3.95348,40,11.52199
+23,150,836,986,Spring,Year 2011,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,3.9573897,4.941955,43.6522,16.5222
+24,86,1330,1416,Spring,Year 2011,Jan,Not A Holiday,Mon,Working Day,Clear:Good,3.9930433,5.8965,49.1739,10.60811
+25,186,1799,1985,Spring,Year 2011,Jan,Not A Holiday,Tues,Working Day,Cloudy:Adequet,9.162598,11.7263,61.6957,8.696332
+26,34,472,506,Spring,Year 2011,Jan,Not A Holiday,Wed,Working Day,LightRain:Bad,8.9175,10.18,86.25,19.68795
+27,15,416,431,Spring,Year 2011,Jan,Not A Holiday,Thr,Working Day,Clear:Good,7.995,10.985,68.75,7.627079
+28,38,1129,1167,Spring,Year 2011,Jan,Not A Holiday,Fri,Working Day,Cloudy:Adequet,8.342598,11.16585,79.3043,8.2611
+29,123,975,1098,Spring,Year 2011,Jan,Not A Holiday,Sat,Not A Working Day,Clear:Good,8.057402,10.6063,65.1739,9.739455
+30,140,956,1096,Spring,Year 2011,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,8.877402,12.5161,72.2174,4.9568342
+31,42,1459,1501,Spring,Year 2011,Jan,Not A Holiday,Mon,Working Day,Cloudy:Adequet,7.414153,9.3125,60.375,12.541864
+32,47,1313,1360,Spring,Year 2011,Feb,Not A Holiday,Tues,Working Day,Cloudy:Adequet,7.879134,11.7265,82.9565,3.565271
+33,72,1454,1526,Spring,Year 2011,Feb,Not A Holiday,Wed,Working Day,Cloudy:Adequet,10.66,12.72085,77.5417,17.708636
+34,61,1489,1550,Spring,Year 2011,Feb,Not A Holiday,Thr,Working Day,Clear:Good,7.665237,8.8939,43.7826,18.609384
+35,88,1620,1708,Spring,Year 2011,Feb,Not A Holiday,Fri,Working Day,Cloudy:Adequet,8.663464,11.42935,58.5217,8.565213
+36,100,905,1005,Spring,Year 2011,Feb,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,9.566653,12.1529,92.9167,10.792293
+37,354,1269,1623,Spring,Year 2011,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,11.719153,14.58355,56.8333,9.5006
+38,120,1592,1712,Spring,Year 2011,Feb,Not A Holiday,Mon,Working Day,Clear:Good,11.138347,15.1829,73.8333,3.0423561
+39,64,1466,1530,Spring,Year 2011,Feb,Not A Holiday,Tues,Working Day,Clear:Good,9.054153,9.9123,53.7917,24.25065
+40,53,1552,1605,Spring,Year 2011,Feb,Not A Holiday,Wed,Working Day,Cloudy:Adequet,5.526103,7.21415,49.4783,12.652213
+41,47,1491,1538,Spring,Year 2011,Feb,Not A Holiday,Thr,Working Day,Clear:Good,5.918268,7.4774,43.7391,14.869645
+42,149,1597,1746,Spring,Year 2011,Feb,Not A Holiday,Fri,Working Day,Clear:Good,7.752731,10.67545,50.6364,7.27285
+43,288,1184,1472,Spring,Year 2011,Feb,Not A Holiday,Sat,Not A Working Day,Clear:Good,9.1225,11.6477,54.4167,13.625589
+44,397,1192,1589,Spring,Year 2011,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,12.977402,16.20565,45.7391,17.479161
+45,208,1705,1913,Spring,Year 2011,Feb,Not A Holiday,Mon,Working Day,Clear:Good,17.015,19.9175,37.5833,27.999836
+46,140,1675,1815,Spring,Year 2011,Feb,Not A Holiday,Tues,Working Day,Clear:Good,10.909567,12.7137,31.4348,19.522058
+47,218,1897,2115,Spring,Year 2011,Feb,Not A Holiday,Wed,Working Day,Clear:Good,13.048701,15.81,42.3478,16.869997
+48,259,2216,2475,Spring,Year 2011,Feb,Not A Holiday,Thr,Working Day,Clear:Good,17.869153,21.4329,50.5,15.416968
+49,579,2348,2927,Spring,Year 2011,Feb,Not A Holiday,Fri,Working Day,Clear:Good,21.388347,25.59915,51.6667,17.749975
+50,532,1103,1635,Spring,Year 2011,Feb,Not A Holiday,Sat,Not A Working Day,Clear:Good,16.365847,19.5702,18.7917,34.000021
+51,639,1173,1812,Spring,Year 2011,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,11.693897,13.8665,40.7826,14.956745
+52,195,912,1107,Spring,Year 2011,Feb,Holiday,Mon,Not A Working Day,Cloudy:Adequet,12.436653,14.20375,60.5,20.625682
+53,74,1376,1450,Spring,Year 2011,Feb,Not A Holiday,Tues,Working Day,Clear:Good,7.471102,9.30165,57.7778,13.110761
+54,139,1778,1917,Spring,Year 2011,Feb,Not A Holiday,Wed,Working Day,Clear:Good,9.091299,12.28585,42.3043,6.305571
+55,100,1707,1807,Spring,Year 2011,Feb,Not A Holiday,Thr,Working Day,Cloudy:Adequet,12.121732,14.45955,69.7391,16.783232
+56,120,1341,1461,Spring,Year 2011,Feb,Not A Holiday,Fri,Working Day,Cloudy:Adequet,14.938268,17.52305,71.2174,23.218113
+57,424,1545,1969,Spring,Year 2011,Feb,Not A Holiday,Sat,Not A Working Day,Clear:Good,11.5825,14.1096,53.7917,12.500257
+58,694,1708,2402,Spring,Year 2011,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,14.082598,17.55545,68,8.391616
+59,81,1365,1446,Spring,Year 2011,Feb,Not A Holiday,Mon,Working Day,Cloudy:Adequet,16.698193,20.0059,87.6364,19.408962
+60,137,1714,1851,Spring,Year 2011,Mar,Not A Holiday,Tues,Working Day,Clear:Good,10.933347,13.19395,53.5,14.500475
+61,231,1903,2134,Spring,Year 2011,Mar,Not A Holiday,Wed,Working Day,Clear:Good,13.735,16.00355,44.9583,20.624811
+62,123,1562,1685,Spring,Year 2011,Mar,Not A Holiday,Thr,Working Day,Clear:Good,8.131653,10.00665,31.8333,15.125518
+63,214,1730,1944,Spring,Year 2011,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,10.728347,12.78395,61.0417,13.624182
+64,640,1437,2077,Spring,Year 2011,Mar,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,15.750847,18.93895,78.9167,16.875357
+65,114,491,605,Spring,Year 2011,Mar,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,15.437402,18.3126,94.8261,23.000229
+66,244,1628,1872,Spring,Year 2011,Mar,Not A Holiday,Mon,Working Day,Clear:Good,10.731299,11.92305,55.1304,22.870584
+67,316,1817,2133,Spring,Year 2011,Mar,Not A Holiday,Tues,Working Day,Clear:Good,11.9925,15.12,42.0833,8.08355
+68,191,1700,1891,Spring,Year 2011,Mar,Not A Holiday,Wed,Working Day,Cloudy:Adequet,12.129153,14.3304,77.5417,14.75005
+69,46,577,623,Spring,Year 2011,Mar,Not A Holiday,Thr,Working Day,LightRain:Bad,15.952731,19.2834,0,17.545759
+70,247,1730,1977,Spring,Year 2011,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,12.977402,15.25,64.9565,15.60899
+71,724,1408,2132,Spring,Year 2011,Mar,Not A Holiday,Sat,Not A Working Day,Clear:Good,13.495847,16.2875,59.4583,14.791925
+72,982,1435,2417,Spring,Year 2011,Mar,Not A Holiday,Sun,Not A Working Day,Clear:Good,15.758268,19.00455,52.7391,18.130468
+73,359,1687,2046,Spring,Year 2011,Mar,Not A Holiday,Mon,Working Day,Clear:Good,13.333897,16.6,49.6957,9.174042
+74,289,1767,2056,Spring,Year 2011,Mar,Not A Holiday,Tues,Working Day,Cloudy:Adequet,13.013031,15.9089,65.5652,12.348703
+75,321,1871,2192,Spring,Year 2011,Mar,Not A Holiday,Wed,Working Day,Cloudy:Adequet,14.973897,18.3465,77.6522,13.608839
+76,424,2320,2744,Spring,Year 2011,Mar,Not A Holiday,Thr,Working Day,Clear:Good,17.015,20.51665,60.2917,14.041793
+77,884,2355,3239,Spring,Year 2011,Mar,Not A Holiday,Fri,Working Day,Clear:Good,22.14,26.35045,52.5217,15.478139
+78,1424,1693,3117,Spring,Year 2011,Mar,Not A Holiday,Sat,Not A Working Day,Clear:Good,19.3725,23.32625,37.9167,24.667189
+79,1047,1424,2471,Spring,Year 2011,Mar,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.6325,16.2875,47.375,13.917307
+80,401,1676,2077,Summer,Year 2011,Mar,Not A Holiday,Mon,Working Day,Cloudy:Adequet,17.647835,20.48675,73.7391,19.348461
+81,460,2243,2703,Summer,Year 2011,Mar,Not A Holiday,Tues,Working Day,Clear:Good,18.108347,22.0321,62.4583,15.12525
+82,203,1918,2121,Summer,Year 2011,Mar,Not A Holiday,Wed,Working Day,Cloudy:Adequet,14.225237,16.89695,83.9565,15.695487
+83,166,1699,1865,Summer,Year 2011,Mar,Not A Holiday,Thr,Working Day,Cloudy:Adequet,11.685,13.54165,80.5833,16.333729
+84,300,1910,2210,Summer,Year 2011,Mar,Not A Holiday,Fri,Working Day,Clear:Good,10.830847,12.8156,49.5,15.458575
+85,981,1515,2496,Summer,Year 2011,Mar,Not A Holiday,Sat,Not A Working Day,Clear:Good,10.899153,12.87855,39.4167,14.041257
+86,472,1221,1693,Summer,Year 2011,Mar,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,10.374763,12.51695,49.3913,12.3481
+87,222,1806,2028,Summer,Year 2011,Mar,Not A Holiday,Mon,Working Day,Clear:Good,10.838268,12.8787,30.2174,14.217668
+88,317,2108,2425,Summer,Year 2011,Mar,Not A Holiday,Tues,Working Day,Clear:Good,12.4025,14.6454,31.4167,15.208732
+89,168,1368,1536,Summer,Year 2011,Mar,Not A Holiday,Wed,Working Day,Cloudy:Adequet,12.3,14.8675,64.6667,11.583496
+90,179,1506,1685,Summer,Year 2011,Mar,Not A Holiday,Thr,Working Day,LightRain:Bad,11.001653,12.87875,91.8333,14.582282
+91,307,1920,2227,Summer,Year 2011,Apr,Not A Holiday,Fri,Working Day,Cloudy:Adequet,12.3,14.1727,68.625,17.333436
+92,898,1354,2252,Summer,Year 2011,Apr,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,12.915,15.78185,65.375,13.208782
+93,1651,1598,3249,Summer,Year 2011,Apr,Not A Holiday,Sun,Not A Working Day,Clear:Good,15.511653,18.93835,48,12.208271
+94,734,2381,3115,Summer,Year 2011,Apr,Not A Holiday,Mon,Working Day,Clear:Good,23.506653,27.14645,42.625,25.833257
+95,167,1628,1795,Summer,Year 2011,Apr,Not A Holiday,Tues,Working Day,Cloudy:Adequet,16.980847,19.9175,64.2083,26.000489
+96,413,2395,2808,Summer,Year 2011,Apr,Not A Holiday,Wed,Working Day,Clear:Good,16.024153,19.3804,47.0833,17.625221
+97,571,2570,3141,Summer,Year 2011,Apr,Not A Holiday,Thr,Working Day,Clear:Good,17.9375,21.6848,60.2917,10.874904
+98,172,1299,1471,Summer,Year 2011,Apr,Not A Holiday,Fri,Working Day,Cloudy:Adequet,13.769153,16.22395,83.625,15.208464
+99,879,1576,2455,Summer,Year 2011,Apr,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,14.0425,17.07645,87.75,8.916561
+100,1188,1707,2895,Summer,Year 2011,Apr,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,17.493347,21.33685,85.75,9.833389
+101,855,2493,3348,Summer,Year 2011,Apr,Not A Holiday,Mon,Working Day,Cloudy:Adequet,24.421732,28.26085,71.6956,21.739758
+102,257,1777,2034,Summer,Year 2011,Apr,Not A Holiday,Tues,Working Day,Cloudy:Adequet,20.6025,24.6527,73.9167,18.416893
+103,209,1953,2162,Summer,Year 2011,Apr,Not A Holiday,Wed,Working Day,Cloudy:Adequet,16.9125,20.86415,81.9167,16.791339
+104,529,2738,3267,Summer,Year 2011,Apr,Not A Holiday,Thr,Working Day,Clear:Good,19.1675,23.1371,54.0417,7.4169
+105,642,2484,3126,Summer,Year 2011,Apr,Holiday,Fri,Not A Working Day,Clear:Good,18.313347,22.09565,67.125,15.167125
+106,121,674,795,Summer,Year 2011,Apr,Not A Holiday,Sat,Not A Working Day,LightRain:Bad,17.664153,21.2746,88.8333,22.834136
+107,1558,2186,3744,Summer,Year 2011,Apr,Not A Holiday,Sun,Not A Working Day,Clear:Good,18.723347,22.2848,47.9583,20.334232
+108,669,2760,3429,Summer,Year 2011,Apr,Not A Holiday,Mon,Working Day,Clear:Good,21.0125,25.1573,54.25,10.958989
+109,409,2795,3204,Summer,Year 2011,Apr,Not A Holiday,Tues,Working Day,Cloudy:Adequet,20.739153,24.4629,66.5833,10.584057
+110,613,3331,3944,Summer,Year 2011,Apr,Not A Holiday,Wed,Working Day,Clear:Good,24.395,28.2196,61.4167,16.208975
+111,745,3444,4189,Summer,Year 2011,Apr,Not A Holiday,Thr,Working Day,Clear:Good,18.825847,22.6946,40.7083,21.792286
+112,177,1506,1683,Summer,Year 2011,Apr,Not A Holiday,Fri,Working Day,Cloudy:Adequet,13.803347,16.0977,72.9583,14.707907
+113,1462,2574,4036,Summer,Year 2011,Apr,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,18.86,22.50605,88.7917,15.458575
+114,1710,2481,4191,Summer,Year 2011,Apr,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,23.848347,27.58815,81.0833,12.875725
+115,773,3300,4073,Summer,Year 2011,Apr,Not A Holiday,Mon,Working Day,Clear:Good,24.873347,28.725,77.6667,12.417311
+116,678,3722,4400,Summer,Year 2011,Apr,Not A Holiday,Tues,Working Day,Clear:Good,25.898347,29.70415,72.9167,21.8755
+117,547,3325,3872,Summer,Year 2011,Apr,Not A Holiday,Wed,Working Day,Cloudy:Adequet,25.42,28.7571,83.5417,20.9174
+118,569,3489,4058,Summer,Year 2011,Apr,Not A Holiday,Thr,Working Day,Cloudy:Adequet,25.3175,28.94645,70.0833,21.500836
+119,878,3717,4595,Summer,Year 2011,Apr,Not A Holiday,Fri,Working Day,Clear:Good,20.91,24.87315,45.7083,16.084221
+120,1965,3347,5312,Summer,Year 2011,Apr,Not A Holiday,Sat,Not A Working Day,Clear:Good,19.3725,23.20105,50.3333,15.750025
+121,1138,2213,3351,Summer,Year 2011,May,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,18.518347,22.4102,76.2083,7.125718
+122,847,3554,4401,Summer,Year 2011,May,Not A Holiday,Mon,Working Day,Cloudy:Adequet,22.515847,26.64165,73,12.291418
+123,603,3848,4451,Summer,Year 2011,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,25.283347,29.10395,69.7083,22.958689
+124,255,2378,2633,Summer,Year 2011,May,Not A Holiday,Wed,Working Day,Cloudy:Adequet,16.980847,20.2325,73.7083,22.042732
+125,614,3819,4433,Summer,Year 2011,May,Not A Holiday,Thr,Working Day,Clear:Good,18.825847,22.09585,44.4167,19.791264
+126,894,3714,4608,Summer,Year 2011,May,Not A Holiday,Fri,Working Day,Clear:Good,19.645847,23.70585,59,15.292482
+127,1612,3102,4714,Summer,Year 2011,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,21.32,25.63105,54.125,10.75015
+128,1401,2932,4333,Summer,Year 2011,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,21.661653,25.94665,63.1667,5.0007125
+129,664,3698,4362,Summer,Year 2011,May,Not A Holiday,Mon,Working Day,Clear:Good,21.8325,26.2623,58.875,11.792
+130,694,4109,4803,Summer,Year 2011,May,Not A Holiday,Tues,Working Day,Clear:Good,21.8325,26.13605,48.9167,7.749957
+131,550,3632,4182,Summer,Year 2011,May,Not A Holiday,Wed,Working Day,Clear:Good,22.2425,26.42,63.2917,8.083014
+132,695,4169,4864,Summer,Year 2011,May,Not A Holiday,Thr,Working Day,Clear:Good,21.935,26.16815,74.75,12.707689
+133,692,3413,4105,Summer,Year 2011,May,Not A Holiday,Fri,Working Day,Cloudy:Adequet,21.0125,24.715,86.3333,12.041575
+134,902,2507,3409,Summer,Year 2011,May,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,21.354153,25.03145,92.25,9.04165
+135,1582,2971,4553,Summer,Year 2011,May,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,23.0625,26.8,86.7083,10.249593
+136,773,3185,3958,Summer,Year 2011,May,Not A Holiday,Mon,Working Day,Clear:Good,23.6775,27.5256,78.7917,8.500357
+137,678,3445,4123,Summer,Year 2011,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,23.028347,26.92645,83.7917,18.582718
+138,536,3319,3855,Summer,Year 2011,May,Not A Holiday,Wed,Working Day,Cloudy:Adequet,22.55,26.3579,87,13.499964
+139,735,3840,4575,Summer,Year 2011,May,Not A Holiday,Thr,Working Day,Cloudy:Adequet,21.764153,25.5371,82.9583,7.250271
+140,909,4008,4917,Summer,Year 2011,May,Not A Holiday,Fri,Working Day,Clear:Good,22.003347,26.4521,71.9583,8.375871
+141,2258,3547,5805,Summer,Year 2011,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,24.7025,28.59875,62.6667,8.08355
+142,1576,3084,4660,Summer,Year 2011,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,24.770847,28.725,74.9583,9.916536
+143,836,3438,4274,Summer,Year 2011,May,Not A Holiday,Mon,Working Day,Cloudy:Adequet,25.898347,29.5148,81,15.667414
+144,659,3833,4492,Summer,Year 2011,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,27.06,30.24065,74.0833,13.875164
+145,740,4238,4978,Summer,Year 2011,May,Not A Holiday,Wed,Working Day,Clear:Good,27.094153,30.7771,69.625,10.333611
+146,758,3919,4677,Summer,Year 2011,May,Not A Holiday,Thr,Working Day,Clear:Good,29.041653,32.7344,67.75,13.376014
+147,871,3808,4679,Summer,Year 2011,May,Not A Holiday,Fri,Working Day,Clear:Good,27.948347,31.8504,65.375,16.125493
+148,2001,2757,4758,Summer,Year 2011,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,26.889153,30.61895,72.9583,15.416164
+149,2355,2433,4788,Summer,Year 2011,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,27.3675,30.7775,81.875,14.333846
+150,1549,2549,4098,Summer,Year 2011,May,Holiday,Mon,Not A Working Day,Clear:Good,30.066653,33.5546,68.5,8.792075
+151,673,3309,3982,Summer,Year 2011,May,Not A Holiday,Tues,Working Day,Clear:Good,31.775,36.26915,63.6667,7.459043
+152,513,3461,3974,Summer,Year 2011,June,Not A Holiday,Wed,Working Day,Cloudy:Adequet,31.330847,36.04835,67.7083,13.875164
+153,736,4232,4968,Summer,Year 2011,June,Not A Holiday,Thr,Working Day,Clear:Good,29.315,32.1971,30.5,19.583229
+154,898,4414,5312,Summer,Year 2011,June,Not A Holiday,Fri,Working Day,Clear:Good,25.42,29.35665,35.4167,16.959107
+155,1869,3473,5342,Summer,Year 2011,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,26.035,29.7348,45.625,8.250514
+156,1685,3221,4906,Summer,Year 2011,June,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,26.581653,30.8402,65.25,9.292364
+157,673,3875,4548,Summer,Year 2011,June,Not A Holiday,Mon,Working Day,Clear:Good,27.811653,31.0929,60,8.167032
+158,763,4070,4833,Summer,Year 2011,June,Not A Holiday,Tues,Working Day,Clear:Good,29.0075,32.7975,59.7917,12.583136
+159,676,3725,4401,Summer,Year 2011,June,Not A Holiday,Wed,Working Day,Clear:Good,31.809153,36.36395,62.2083,9.166739
+160,563,3352,3915,Summer,Year 2011,June,Not A Holiday,Thr,Working Day,Cloudy:Adequet,33.141653,37.87895,56.8333,10.042161
+161,815,3771,4586,Summer,Year 2011,June,Not A Holiday,Fri,Working Day,Clear:Good,30.955,35.1646,60.5,9.417118
+162,1729,3237,4966,Summer,Year 2011,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,29.725,33.9019,65.4583,10.37495
+163,1467,2993,4460,Summer,Year 2011,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,28.3925,32.16625,74.7917,10.958989
+164,863,4157,5020,Summer,Year 2011,June,Not A Holiday,Mon,Working Day,Clear:Good,26.035,30.0827,49.4583,20.45845
+165,727,4164,4891,Summer,Year 2011,June,Not A Holiday,Tues,Working Day,Clear:Good,24.770847,29.5773,50.7083,18.041961
+166,769,4411,5180,Summer,Year 2011,June,Not A Holiday,Wed,Working Day,Clear:Good,25.693347,29.3877,47.1667,11.250104
+167,545,3222,3767,Summer,Year 2011,June,Not A Holiday,Thr,Working Day,Cloudy:Adequet,25.761653,29.7673,68.8333,13.833557
+168,863,3981,4844,Summer,Year 2011,June,Not A Holiday,Fri,Working Day,Clear:Good,26.615847,30.01915,73.5833,9.582943
+169,1807,3312,5119,Summer,Year 2011,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,28.563347,32.1977,67.0417,8.000336
+170,1639,3105,4744,Summer,Year 2011,June,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,28.665847,32.2923,66.6667,6.834
+171,699,3311,4010,Summer,Year 2011,June,Not A Holiday,Mon,Working Day,Cloudy:Adequet,26.035,29.7673,74.625,10.416825
+172,774,4061,4835,Fall,Year 2011,June,Not A Holiday,Tues,Working Day,Cloudy:Adequet,27.914153,31.8823,77.0417,11.458675
+173,661,3846,4507,Fall,Year 2011,June,Not A Holiday,Wed,Working Day,Clear:Good,30.066653,34.69145,70.75,11.541554
+174,746,4044,4790,Fall,Year 2011,June,Not A Holiday,Thr,Working Day,Cloudy:Adequet,29.861653,34.69165,70.3333,15.999868
+175,969,4022,4991,Fall,Year 2011,June,Not A Holiday,Fri,Working Day,Clear:Good,29.690847,32.82915,57.3333,14.875675
+176,1782,3420,5202,Fall,Year 2011,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,28.495,32.16565,48.3333,14.041257
+177,1920,3385,5305,Fall,Year 2011,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,27.88,31.88145,51.3333,6.3337311
+178,854,3854,4708,Fall,Year 2011,June,Not A Holiday,Mon,Working Day,Cloudy:Adequet,27.9825,31.8502,65.8333,7.208396
+179,732,3916,4648,Fall,Year 2011,June,Not A Holiday,Tues,Working Day,Clear:Good,30.510847,34.6279,63.4167,9.666961
+180,848,4377,5225,Fall,Year 2011,June,Not A Holiday,Wed,Working Day,Clear:Good,29.861653,32.7344,49.7917,17.542007
+181,1027,4488,5515,Fall,Year 2011,June,Not A Holiday,Thr,Working Day,Clear:Good,28.563347,31.8504,43.4167,12.415904
+182,1246,4116,5362,Fall,Year 2011,Jul,Not A Holiday,Fri,Working Day,Clear:Good,29.6225,32.6081,39.625,6.874736
+183,2204,2915,5119,Fall,Year 2011,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,30.271653,33.3654,44.4583,7.709154
+184,2282,2367,4649,Fall,Year 2011,Jul,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,29.383347,33.42875,68.25,15.333486
+185,3065,2978,6043,Fall,Year 2011,Jul,Holiday,Mon,Not A Working Day,Cloudy:Adequet,29.793347,33.27085,63.7917,5.4591064
+186,1031,3634,4665,Fall,Year 2011,Jul,Not A Holiday,Tues,Working Day,Clear:Good,30.613347,34.8169,59.0417,8.459286
+187,784,3845,4629,Fall,Year 2011,Jul,Not A Holiday,Wed,Working Day,Clear:Good,29.52,34.28165,74.3333,10.042161
+188,754,3838,4592,Fall,Year 2011,Jul,Not A Holiday,Thr,Working Day,Clear:Good,30.75,34.34355,65.125,10.6664
+189,692,3348,4040,Fall,Year 2011,Jul,Not A Holiday,Fri,Working Day,Cloudy:Adequet,29.075847,33.52415,75.7917,15.083643
+190,1988,3348,5336,Fall,Year 2011,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,30.066653,33.2079,60.9167,11.250104
+191,1743,3138,4881,Fall,Year 2011,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,30.6475,34.50125,57.8333,12.292557
+192,723,3363,4086,Fall,Year 2011,Jul,Not A Holiday,Mon,Working Day,Clear:Good,31.2625,36.4902,63.5833,18.916579
+193,662,3596,4258,Fall,Year 2011,Jul,Not A Holiday,Tues,Working Day,Clear:Good,32.560847,36.96375,55.9167,13.417018
+194,748,3594,4342,Fall,Year 2011,Jul,Not A Holiday,Wed,Working Day,Clear:Good,30.613347,34.4702,63.1667,9.790911
+195,888,4196,5084,Fall,Year 2011,Jul,Not A Holiday,Thr,Working Day,Clear:Good,27.914153,31.7552,47.625,16.124689
+196,1318,4220,5538,Fall,Year 2011,Jul,Not A Holiday,Fri,Working Day,Clear:Good,27.196653,31.21855,59.125,12.249811
+197,2418,3505,5923,Fall,Year 2011,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,28.153347,31.91315,58.5,13.958914
+198,2006,3296,5302,Fall,Year 2011,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,29.485847,33.49165,60.4167,16.417211
+199,841,3617,4458,Fall,Year 2011,Jul,Not A Holiday,Mon,Working Day,Clear:Good,30.613347,35.19625,65.125,14.458868
+200,752,3789,4541,Fall,Year 2011,Jul,Not A Holiday,Tues,Working Day,Clear:Good,31.843347,37.37395,65.0417,8.7502
+201,644,3688,4332,Fall,Year 2011,Jul,Not A Holiday,Wed,Working Day,Clear:Good,31.501653,37.3425,70.7083,7.625739
+202,632,3152,3784,Fall,Year 2011,Jul,Not A Holiday,Thr,Working Day,Cloudy:Adequet,33.415,41.31855,69.125,14.875407
+203,562,2825,3387,Fall,Year 2011,Jul,Not A Holiday,Fri,Working Day,Clear:Good,34.781653,42.0448,58.0417,8.9177
+204,987,2298,3285,Fall,Year 2011,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,34.815847,40.21435,50,8.791807
+205,1050,2556,3606,Fall,Year 2011,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,34.03,39.74145,55.0833,11.334457
+206,568,3272,3840,Fall,Year 2011,Jul,Not A Holiday,Mon,Working Day,Clear:Good,30.476653,36.0479,75.7083,6.0841561
+207,750,3840,4590,Fall,Year 2011,Jul,Not A Holiday,Tues,Working Day,Clear:Good,31.638347,34.84895,54.0833,13.417286
+208,755,3901,4656,Fall,Year 2011,Jul,Not A Holiday,Wed,Working Day,Clear:Good,31.775,34.53335,40.2917,12.292021
+209,606,3784,4390,Fall,Year 2011,Jul,Not A Holiday,Thr,Working Day,Clear:Good,31.945847,36.995,58.3333,11.958093
+210,670,3176,3846,Fall,Year 2011,Jul,Not A Holiday,Fri,Working Day,Clear:Good,34.371653,39.29835,54.25,11.667246
+211,1559,2916,4475,Fall,Year 2011,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,32.970847,36.42685,46.5833,11.291979
+212,1524,2778,4302,Fall,Year 2011,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,33.039153,36.4898,48.0833,11.042471
+213,729,3537,4266,Fall,Year 2011,Aug,Not A Holiday,Mon,Working Day,Clear:Good,31.638347,35.1646,55.0833,10.500039
+214,801,4044,4845,Fall,Year 2011,Aug,Not A Holiday,Tues,Working Day,Clear:Good,32.116653,35.35355,49.125,13.79195
+215,467,3107,3574,Fall,Year 2011,Aug,Not A Holiday,Wed,Working Day,Cloudy:Adequet,29.998347,33.99685,65.75,9.084061
+216,799,3777,4576,Fall,Year 2011,Aug,Not A Holiday,Thr,Working Day,Cloudy:Adequet,29.11,33.2394,75.75,13.20905
+217,1023,3843,4866,Fall,Year 2011,Aug,Not A Holiday,Fri,Working Day,Clear:Good,29.144153,32.82835,63.0833,12.374632
+218,1521,2773,4294,Fall,Year 2011,Aug,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,29.383347,33.8077,75.5,15.29275
+219,1298,2487,3785,Fall,Year 2011,Aug,Not A Holiday,Sun,Not A Working Day,Clear:Good,30.4425,35.7646,75.2917,13.499629
+220,846,3480,4326,Fall,Year 2011,Aug,Not A Holiday,Mon,Working Day,Clear:Good,31.365,35.16415,59.2083,12.875725
+221,907,3695,4602,Fall,Year 2011,Aug,Not A Holiday,Tues,Working Day,Clear:Good,31.775,36.20605,57.0417,10.125107
+222,884,3896,4780,Fall,Year 2011,Aug,Not A Holiday,Wed,Working Day,Clear:Good,31.433347,34.24915,42.4167,13.417286
+223,812,3980,4792,Fall,Year 2011,Aug,Not A Holiday,Thr,Working Day,Clear:Good,29.4175,32.57605,42.375,11.041332
+224,1051,3854,4905,Fall,Year 2011,Aug,Not A Holiday,Fri,Working Day,Clear:Good,29.041653,32.7021,41.5,8.416607
+225,1504,2646,4150,Fall,Year 2011,Aug,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,28.119153,32.2929,72.9583,14.167418
+226,1338,2482,3820,Fall,Year 2011,Aug,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,27.743347,31.2194,81.75,14.916411
+227,775,3563,4338,Fall,Year 2011,Aug,Not A Holiday,Mon,Working Day,Clear:Good,27.299153,30.80835,71.2083,13.999918
+228,721,4004,4725,Fall,Year 2011,Aug,Not A Holiday,Tues,Working Day,Clear:Good,28.734153,32.29185,57.8333,15.834043
+229,668,4026,4694,Fall,Year 2011,Aug,Not A Holiday,Wed,Working Day,Clear:Good,29.656653,33.33355,57.5417,9.625689
+230,639,3166,3805,Fall,Year 2011,Aug,Not A Holiday,Thr,Working Day,Clear:Good,29.178347,33.1129,65.4583,15.624936
+231,797,3356,4153,Fall,Year 2011,Aug,Not A Holiday,Fri,Working Day,Cloudy:Adequet,28.085,31.66105,72.2917,9.333636
+232,1914,3277,5191,Fall,Year 2011,Aug,Not A Holiday,Sat,Not A Working Day,Clear:Good,28.5975,32.4498,67.4167,6.999289
+233,1249,2624,3873,Fall,Year 2011,Aug,Not A Holiday,Sun,Not A Working Day,Clear:Good,29.144153,33.77625,77,16.666518
+234,833,3925,4758,Fall,Year 2011,Aug,Not A Holiday,Mon,Working Day,Clear:Good,28.358347,31.9127,47,18.54225
+235,1281,4614,5895,Fall,Year 2011,Aug,Not A Holiday,Tues,Working Day,Clear:Good,26.274153,30.30335,45.5417,9.833121
+236,949,4181,5130,Fall,Year 2011,Aug,Not A Holiday,Wed,Working Day,Clear:Good,27.606653,31.5346,60.5,16.958236
+237,435,3107,3542,Fall,Year 2011,Aug,Not A Holiday,Thr,Working Day,Cloudy:Adequet,28.050847,32.2927,77.1667,14.125811
+238,768,3893,4661,Fall,Year 2011,Aug,Not A Holiday,Fri,Working Day,Clear:Good,28.7,32.98665,76.125,5.6254875
+239,226,889,1115,Fall,Year 2011,Aug,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,27.88,31.7778,85,25.166339
+240,1415,2919,4334,Fall,Year 2011,Aug,Not A Holiday,Sun,Not A Working Day,Clear:Good,28.989419,32.39795,56.1765,20.412153
+241,729,3905,4634,Fall,Year 2011,Aug,Not A Holiday,Mon,Working Day,Clear:Good,26.103347,30.3979,55.4583,10.708275
+242,775,4429,5204,Fall,Year 2011,Aug,Not A Holiday,Tues,Working Day,Clear:Good,26.205847,29.7352,54.8333,8.375536
+243,688,4370,5058,Fall,Year 2011,Aug,Not A Holiday,Wed,Working Day,Clear:Good,26.923347,30.55605,59.7917,5.5833311
+244,783,4332,5115,Fall,Year 2011,Sept,Not A Holiday,Thr,Working Day,Clear:Good,26.855,30.74605,63.9167,9.500332
+245,875,3852,4727,Fall,Year 2011,Sept,Not A Holiday,Fri,Working Day,Cloudy:Adequet,26.376653,30.2404,72.7083,9.375243
+246,1935,2549,4484,Fall,Year 2011,Sept,Not A Holiday,Sat,Not A Working Day,Clear:Good,27.435847,31.66065,71.6667,12.416775
+247,2521,2419,4940,Fall,Year 2011,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,29.075847,33.27145,74.2083,13.833289
+248,1236,2115,3351,Fall,Year 2011,Sept,Holiday,Mon,Not A Working Day,Cloudy:Adequet,27.606653,31.2823,79.0417,14.250632
+249,204,2506,2710,Fall,Year 2011,Sept,Not A Holiday,Tues,Working Day,LightRain:Bad,22.14,25.76,88.6957,23.044181
+250,118,1878,1996,Fall,Year 2011,Sept,Not A Holiday,Wed,Working Day,LightRain:Bad,24.565847,27.21145,91.7083,6.5003936
+251,153,1689,1842,Fall,Year 2011,Sept,Not A Holiday,Thr,Working Day,LightRain:Bad,25.990433,27.76805,93.9565,12.914116
+252,417,3127,3544,Fall,Year 2011,Sept,Not A Holiday,Fri,Working Day,Cloudy:Adequet,26.65,28.9473,89.7917,8.333393
+253,1750,3595,5345,Fall,Year 2011,Sept,Not A Holiday,Sat,Not A Working Day,Clear:Good,27.06,30.3981,75.375,10.291736
+254,1633,3413,5046,Fall,Year 2011,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,26.786653,30.46145,71.375,7.708618
+255,690,4023,4713,Fall,Year 2011,Sept,Not A Holiday,Mon,Working Day,Clear:Good,26.418268,30.1065,69.2174,5.957171
+256,701,4062,4763,Fall,Year 2011,Sept,Not A Holiday,Tues,Working Day,Clear:Good,26.684153,30.1777,71.25,9.500868
+257,647,4138,4785,Fall,Year 2011,Sept,Not A Holiday,Wed,Working Day,Clear:Good,27.606653,31.345,69.7083,11.2091
+258,428,3231,3659,Fall,Year 2011,Sept,Not A Holiday,Thr,Working Day,Cloudy:Adequet,23.6775,27.68355,70.9167,18.166782
+259,742,4018,4760,Fall,Year 2011,Sept,Not A Holiday,Fri,Working Day,Cloudy:Adequet,19.235847,23.07375,59.0417,11.000261
+260,1434,3077,4511,Fall,Year 2011,Sept,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,20.158347,23.9256,71.8333,12.708225
+261,1353,2921,4274,Fall,Year 2011,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,20.8075,24.52685,69.5,11.958361
+262,691,3848,4539,Fall,Year 2011,Sept,Not A Holiday,Mon,Working Day,Cloudy:Adequet,22.515847,26.48375,69,10.166714
+263,438,3203,3641,Fall,Year 2011,Sept,Not A Holiday,Tues,Working Day,Cloudy:Adequet,23.028347,26.61085,88.125,9.041918
+264,539,3813,4352,Fall,Year 2011,Sept,Not A Holiday,Wed,Working Day,Cloudy:Adequet,24.395,27.52665,90,6.4590814
+265,555,4240,4795,Fall,Year 2011,Sept,Not A Holiday,Thr,Working Day,Cloudy:Adequet,25.761653,27.74815,90.2083,8.584375
+266,258,2137,2395,Winter,Year 2011,Sept,Not A Holiday,Fri,Working Day,Cloudy:Adequet,24.975847,26.10625,97.25,5.2505689
+267,1776,3647,5423,Winter,Year 2011,Sept,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,24.873347,28.2206,86.25,5.2516811
+268,1544,3466,5010,Winter,Year 2011,Sept,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,26.000847,28.63185,84.5,3.3754064
+269,684,3946,4630,Winter,Year 2011,Sept,Not A Holiday,Mon,Working Day,Cloudy:Adequet,26.615847,29.4521,84.8333,7.4169
+270,477,3643,4120,Winter,Year 2011,Sept,Not A Holiday,Tues,Working Day,Cloudy:Adequet,26.103347,28.72625,88.5417,7.917457
+271,480,3427,3907,Winter,Year 2011,Sept,Not A Holiday,Wed,Working Day,Cloudy:Adequet,26.035,28.7579,84.875,9.958143
+272,653,4186,4839,Winter,Year 2011,Sept,Not A Holiday,Thr,Working Day,Clear:Good,25.283347,28.7256,69.9167,11.583161
+273,830,4372,5202,Winter,Year 2011,Sept,Not A Holiday,Fri,Working Day,Clear:Good,23.130847,27.24145,64.75,13.833825
+274,480,1949,2429,Winter,Year 2011,Oct,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,16.81,20.64315,75.375,19.583832
+275,616,2302,2918,Winter,Year 2011,Oct,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,14.623347,17.26585,79.1667,14.874871
+276,330,3240,3570,Winter,Year 2011,Oct,Not A Holiday,Mon,Working Day,Cloudy:Adequet,15.750847,19.6023,76.0833,5.5841686
+277,486,3970,4456,Winter,Year 2011,Oct,Not A Holiday,Tues,Working Day,Clear:Good,19.850847,23.6429,71,13.792218
+278,559,4267,4826,Winter,Year 2011,Oct,Not A Holiday,Wed,Working Day,Clear:Good,22.071653,26.3569,64.7917,11.87575
+279,639,4126,4765,Winter,Year 2011,Oct,Not A Holiday,Thr,Working Day,Clear:Good,20.260847,24.02125,62.0833,9.041918
+280,949,4036,4985,Winter,Year 2011,Oct,Not A Holiday,Fri,Working Day,Clear:Good,20.944153,25.2202,68.4167,1.5002439
+281,2235,3174,5409,Winter,Year 2011,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,21.388347,25.6621,70.125,3.0420814
+282,2397,3114,5511,Winter,Year 2011,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,22.174153,26.19915,72.75,4.25115
+283,1514,3603,5117,Winter,Year 2011,Oct,Holiday,Mon,Not A Working Day,Clear:Good,23.404153,27.14625,73.375,2.8343814
+284,667,3896,4563,Winter,Year 2011,Oct,Not A Holiday,Tues,Working Day,Cloudy:Adequet,23.233347,27.3048,80.875,9.583814
+285,217,2199,2416,Winter,Year 2011,Oct,Not A Holiday,Wed,Working Day,LightRain:Bad,22.276653,25.88585,90.625,16.62605
+286,290,2623,2913,Winter,Year 2011,Oct,Not A Holiday,Thr,Working Day,Cloudy:Adequet,24.155847,27.5902,89.6667,9.499729
+287,529,3115,3644,Winter,Year 2011,Oct,Not A Holiday,Fri,Working Day,Cloudy:Adequet,22.584153,26.48375,71.625,15.000161
+288,1899,3318,5217,Winter,Year 2011,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,20.773347,24.93625,48.3333,17.291561
+289,1748,3293,5041,Winter,Year 2011,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,20.978347,25.1577,48.6667,18.875039
+290,713,3857,4570,Winter,Year 2011,Oct,Not A Holiday,Mon,Working Day,Clear:Good,21.900847,25.53625,57.9583,11.750393
+291,637,4111,4748,Winter,Year 2011,Oct,Not A Holiday,Tues,Working Day,Cloudy:Adequet,21.8325,26.13605,70.1667,7.375829
+292,254,2170,2424,Winter,Year 2011,Oct,Not A Holiday,Wed,Working Day,LightRain:Bad,22.211299,25.6924,89.5217,16.303713
+293,471,3724,4195,Winter,Year 2011,Oct,Not A Holiday,Thr,Working Day,Clear:Good,19.509153,23.32625,63.625,28.292425
+294,676,3628,4304,Winter,Year 2011,Oct,Not A Holiday,Fri,Working Day,Clear:Good,17.5275,21.1798,57.4167,14.833532
+295,1499,2809,4308,Winter,Year 2011,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,17.3225,21.2746,62.9167,6.2086689
+296,1619,2762,4381,Winter,Year 2011,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,17.288347,21.11665,74.125,6.6673375
+297,699,3488,4187,Winter,Year 2011,Oct,Not A Holiday,Mon,Working Day,Clear:Good,18.996653,22.85335,77.2083,7.959064
+298,695,3992,4687,Winter,Year 2011,Oct,Not A Holiday,Tues,Working Day,Clear:Good,19.338347,23.16875,62.2917,11.166086
+299,404,3490,3894,Winter,Year 2011,Oct,Not A Holiday,Wed,Working Day,Cloudy:Adequet,19.850847,23.6423,72.0417,9.959014
+300,240,2419,2659,Winter,Year 2011,Oct,Not A Holiday,Thr,Working Day,Cloudy:Adequet,19.27,22.8523,81.2917,13.250121
+301,456,3291,3747,Winter,Year 2011,Oct,Not A Holiday,Fri,Working Day,Cloudy:Adequet,13.564153,15.9406,58.5833,15.375093
+302,57,570,627,Winter,Year 2011,Oct,Not A Holiday,Sat,Not A Working Day,LightRain:Bad,10.420847,11.39565,88.25,23.541857
+303,885,2446,3331,Winter,Year 2011,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.085847,16.06645,62.375,11.833339
+304,362,3307,3669,Winter,Year 2011,Oct,Not A Holiday,Mon,Working Day,Clear:Good,13.94,17.80315,70.3333,7.12545
+305,410,3658,4068,Winter,Year 2011,Nov,Not A Holiday,Tues,Working Day,Clear:Good,16.434153,19.8544,68.375,9.083257
+306,370,3816,4186,Winter,Year 2011,Nov,Not A Holiday,Wed,Working Day,Clear:Good,15.4775,19.50665,71.875,5.5001439
+307,318,3656,3974,Winter,Year 2011,Nov,Not A Holiday,Thr,Working Day,Clear:Good,16.741653,20.29605,70.2083,9.166739
+308,470,3576,4046,Winter,Year 2011,Nov,Not A Holiday,Fri,Working Day,Cloudy:Adequet,16.536653,20.1696,62.25,18.209193
+309,1156,2770,3926,Winter,Year 2011,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,13.393347,16.1927,51.9167,12.667154
+310,952,2697,3649,Winter,Year 2011,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,14.281653,18.1179,73.4583,6.1676314
+311,373,3662,4035,Winter,Year 2011,Nov,Not A Holiday,Mon,Working Day,Clear:Good,16.195,20.04355,75.875,3.834075
+312,376,3829,4205,Winter,Year 2011,Nov,Not A Holiday,Tues,Working Day,Clear:Good,16.741653,20.6123,72.1667,4.6255125
+313,305,3804,4109,Winter,Year 2011,Nov,Not A Holiday,Wed,Working Day,Clear:Good,16.4,20.45395,75.8333,4.1671186
+314,190,2743,2933,Winter,Year 2011,Nov,Not A Holiday,Thr,Working Day,Cloudy:Adequet,15.58,18.68605,81.3333,12.667489
+315,440,2928,3368,Winter,Year 2011,Nov,Holiday,Fri,Not A Working Day,Clear:Good,13.290847,15.34085,44.625,21.083225
+316,1275,2792,4067,Winter,Year 2011,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,14.623347,17.8971,55.2917,14.208154
+317,1004,2713,3717,Winter,Year 2011,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,18.074153,21.5275,45.8333,18.875307
+318,595,3891,4486,Winter,Year 2011,Nov,Not A Holiday,Mon,Working Day,Clear:Good,21.73,26.2306,58.7083,20.541932
+319,449,3746,4195,Winter,Year 2011,Nov,Not A Holiday,Tues,Working Day,Cloudy:Adequet,21.73,25.37895,68.875,13.375411
+320,145,1672,1817,Winter,Year 2011,Nov,Not A Holiday,Wed,Working Day,LightRain:Bad,18.723347,22.5994,93,9.167543
+321,139,2914,3053,Winter,Year 2011,Nov,Not A Holiday,Thr,Working Day,Cloudy:Adequet,14.008347,16.16105,57.5833,20.459254
+322,245,3147,3392,Winter,Year 2011,Nov,Not A Holiday,Fri,Working Day,Clear:Good,11.240847,13.63605,41,11.291711
+323,943,2720,3663,Winter,Year 2011,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,13.495847,16.22415,50.2083,15.041232
+324,787,2733,3520,Winter,Year 2011,Nov,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,18.996653,22.8529,68.4583,12.45865
+325,220,2545,2765,Winter,Year 2011,Nov,Not A Holiday,Mon,Working Day,LightRain:Bad,18.3475,22.2531,91,9.249618
+326,69,1538,1607,Winter,Year 2011,Nov,Not A Holiday,Tues,Working Day,LightRain:Bad,17.083347,21.0848,96.25,7.959064
+327,112,2454,2566,Winter,Year 2011,Nov,Not A Holiday,Wed,Working Day,Cloudy:Adequet,18.074153,21.52685,75.7917,22.500275
+328,560,935,1495,Winter,Year 2011,Nov,Holiday,Thr,Not A Working Day,Clear:Good,15.306653,18.62355,54.9167,11.209368
+329,1095,1697,2792,Winter,Year 2011,Nov,Not A Holiday,Fri,Working Day,Clear:Good,15.375,19.03355,64.375,6.6260186
+330,1249,1819,3068,Winter,Year 2011,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,15.409153,19.25435,68.1667,4.5841936
+331,810,2261,3071,Winter,Year 2011,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,18.825847,22.79,69.8333,13.999918
+332,253,3614,3867,Winter,Year 2011,Nov,Not A Holiday,Mon,Working Day,Clear:Good,20.642598,24.5061,74.3043,9.522174
+333,96,2818,2914,Winter,Year 2011,Nov,Not A Holiday,Tues,Working Day,Cloudy:Adequet,18.791653,22.56875,83.0833,17.292164
+334,188,3425,3613,Winter,Year 2011,Nov,Not A Holiday,Wed,Working Day,Clear:Good,13.325,15.56105,61.3333,18.167586
+335,182,3545,3727,Winter,Year 2011,Dec,Not A Holiday,Thr,Working Day,Clear:Good,12.8125,15.2777,52.4583,14.750586
+336,268,3672,3940,Winter,Year 2011,Dec,Not A Holiday,Fri,Working Day,Clear:Good,12.880847,16.57165,62.5833,6.750518
+337,706,2908,3614,Winter,Year 2011,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,12.265847,15.5302,61.2917,6.4174811
+338,634,2851,3485,Winter,Year 2011,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.564153,17.455,77.5833,5.6252061
+339,233,3578,3811,Winter,Year 2011,Dec,Not A Holiday,Mon,Working Day,Cloudy:Adequet,15.819153,19.69625,82.7083,4.1679561
+340,126,2468,2594,Winter,Year 2011,Dec,Not A Holiday,Tues,Working Day,LightRain:Bad,18.9625,22.82,94.9583,15.583061
+341,50,655,705,Winter,Year 2011,Dec,Not A Holiday,Wed,Working Day,LightRain:Bad,16.81,20.0123,97.0417,17.833725
+342,150,3172,3322,Winter,Year 2011,Dec,Not A Holiday,Thr,Working Day,Clear:Good,10.899153,12.8469,58,16.083886
+343,261,3359,3620,Winter,Year 2011,Dec,Not A Holiday,Fri,Working Day,Clear:Good,11.924153,15.8771,69.5833,5.5420189
+344,502,2688,3190,Winter,Year 2011,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,11.275,13.3206,50.75,15.625807
+345,377,2366,2743,Winter,Year 2011,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,9.054153,12.6577,49,4.4582939
+346,143,3167,3310,Winter,Year 2011,Dec,Not A Holiday,Mon,Working Day,Clear:Good,9.771653,13.5098,67.0833,4.25115
+347,155,3368,3523,Winter,Year 2011,Dec,Not A Holiday,Tues,Working Day,Clear:Good,11.5825,15.0569,59,9.41685
+348,178,3562,3740,Winter,Year 2011,Dec,Not A Holiday,Wed,Working Day,Cloudy:Adequet,13.0175,16.9181,66.375,4.0842061
+349,181,3528,3709,Winter,Year 2011,Dec,Not A Holiday,Thr,Working Day,Cloudy:Adequet,17.3225,20.61185,63.4167,17.958814
+350,178,3399,3577,Winter,Year 2011,Dec,Not A Holiday,Fri,Working Day,Cloudy:Adequet,15.375,17.99125,50.0417,17.458525
+351,275,2464,2739,Winter,Year 2011,Dec,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,10.591653,12.46855,56.0833,16.292189
+352,220,2211,2431,Winter,Year 2011,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,9.771653,12.27895,58.625,11.375193
+353,260,3143,3403,Winter,Year 2011,Dec,Not A Holiday,Mon,Working Day,Clear:Good,11.343347,14.04665,63.75,11.584032
+354,216,3534,3750,Winter,Year 2011,Dec,Not A Holiday,Tues,Working Day,Cloudy:Adequet,15.819153,19.8227,59.5417,4.1252436
+355,107,2553,2660,Spring,Year 2011,Dec,Not A Holiday,Wed,Working Day,Cloudy:Adequet,17.561653,21.40085,85.8333,14.8338
+356,227,2841,3068,Spring,Year 2011,Dec,Not A Holiday,Thr,Working Day,Cloudy:Adequet,17.356653,21.30605,75.75,3.167425
+357,163,2046,2209,Spring,Year 2011,Dec,Not A Holiday,Fri,Working Day,Clear:Good,15.306653,18.87565,68.625,18.374482
+358,155,856,1011,Spring,Year 2011,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,12.4025,14.9621,54.25,12.750368
+359,303,451,754,Spring,Year 2011,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,11.266103,13.99805,68.1304,10.391097
+360,430,887,1317,Spring,Year 2011,Dec,Holiday,Mon,Not A Working Day,Clear:Good,13.191299,15.77675,50.6957,16.044155
+361,103,1059,1162,Spring,Year 2011,Dec,Not A Holiday,Tues,Working Day,Cloudy:Adequet,13.325,16.38165,76.25,12.62615
+362,255,2047,2302,Spring,Year 2011,Dec,Not A Holiday,Wed,Working Day,Clear:Good,12.26433,13.9987,50.3913,19.695387
+363,254,2169,2423,Spring,Year 2011,Dec,Not A Holiday,Thr,Working Day,Clear:Good,10.181653,13.1946,57.4167,8.000604
+364,491,2508,2999,Spring,Year 2011,Dec,Not A Holiday,Fri,Working Day,Clear:Good,12.778347,15.9406,63.6667,9.000579
+365,665,1820,2485,Spring,Year 2011,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,16.81,20.70605,61.5833,14.750318
+366,686,1608,2294,Spring,Year 2012,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,15.17,18.78105,69.25,12.875189
+367,244,1707,1951,Spring,Year 2012,Jan,Holiday,Mon,Not A Working Day,Clear:Good,11.194763,12.6152,38.1304,22.087555
+368,89,2147,2236,Spring,Year 2012,Jan,Not A Holiday,Tues,Working Day,Clear:Good,6.15,6.31375,44.125,24.499957
+369,95,2273,2368,Spring,Year 2012,Jan,Not A Holiday,Wed,Working Day,Cloudy:Adequet,4.4075,5.96685,41.4583,12.3749
+370,140,3132,3272,Spring,Year 2012,Jan,Not A Holiday,Thr,Working Day,Clear:Good,10.899153,13.9206,52.4167,8.709129
+371,307,3791,4098,Spring,Year 2012,Jan,Not A Holiday,Fri,Working Day,Clear:Good,13.700847,17.01335,54.2083,11.249836
+372,1070,3451,4521,Spring,Year 2012,Jan,Not A Holiday,Sat,Not A Working Day,Clear:Good,16.126653,19.53895,53.1667,11.708786
+373,599,2826,3425,Spring,Year 2012,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.8375,17.0129,46.5,12.833314
+374,106,2270,2376,Spring,Year 2012,Jan,Not A Holiday,Mon,Working Day,Cloudy:Adequet,9.190847,12.37395,70.1667,6.6263
+375,173,3425,3598,Spring,Year 2012,Jan,Not A Holiday,Tues,Working Day,Clear:Good,12.656536,15.9413,64.6522,12.565984
+376,92,2085,2177,Spring,Year 2012,Jan,Not A Holiday,Wed,Working Day,Cloudy:Adequet,11.240847,14.14105,84.75,8.791807
+377,269,3828,4097,Spring,Year 2012,Jan,Not A Holiday,Thr,Working Day,Cloudy:Adequet,15.6825,19.0969,80.2917,12.124789
+378,174,3040,3214,Spring,Year 2012,Jan,Not A Holiday,Fri,Working Day,Clear:Good,11.240847,12.4681,50.75,25.333236
+379,333,2160,2493,Spring,Year 2012,Jan,Not A Holiday,Sat,Not A Working Day,Clear:Good,7.38,9.15435,45.75,12.541261
+380,284,2027,2311,Spring,Year 2012,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,6.833347,8.08125,41.9167,16.834286
+381,217,2081,2298,Spring,Year 2012,Jan,Holiday,Mon,Not A Working Day,Clear:Good,7.79,9.53315,52.25,15.500986
+382,127,2808,2935,Spring,Year 2012,Jan,Not A Holiday,Tues,Working Day,Cloudy:Adequet,15.294763,18.2139,71.6087,23.39171
+383,109,3267,3376,Spring,Year 2012,Jan,Not A Holiday,Wed,Working Day,Clear:Good,12.436653,13.7627,44.3333,27.833743
+384,130,3162,3292,Spring,Year 2012,Jan,Not A Holiday,Thr,Working Day,Clear:Good,7.79,9.5019,49.75,14.750586
+385,115,3048,3163,Spring,Year 2012,Jan,Not A Holiday,Fri,Working Day,Cloudy:Adequet,8.9175,11.0479,45,13.58425
+386,67,1234,1301,Spring,Year 2012,Jan,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,7.106653,8.74375,83.125,14.917014
+387,196,1781,1977,Spring,Year 2012,Jan,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,6.6625,8.1125,79.625,13.375746
+388,145,2287,2432,Spring,Year 2012,Jan,Not A Holiday,Mon,Working Day,Cloudy:Adequet,8.951653,12.1529,91.125,7.417436
+389,439,3900,4339,Spring,Year 2012,Jan,Not A Holiday,Tues,Working Day,Clear:Good,14.0425,17.4554,83.5833,8.292389
+390,467,3803,4270,Spring,Year 2012,Jan,Not A Holiday,Wed,Working Day,Clear:Good,12.060847,14.74105,64.375,10.791757
+391,244,3831,4075,Spring,Year 2012,Jan,Not A Holiday,Thr,Working Day,Cloudy:Adequet,14.008347,17.8025,76.9583,4.9175186
+392,269,3187,3456,Spring,Year 2012,Jan,Not A Holiday,Fri,Working Day,Cloudy:Adequet,17.425,20.76915,74.125,22.958689
+393,775,3248,4023,Spring,Year 2012,Jan,Not A Holiday,Sat,Not A Working Day,Clear:Good,12.949153,16.31895,54.3333,14.125543
+394,558,2685,3243,Spring,Year 2012,Jan,Not A Holiday,Sun,Not A Working Day,Clear:Good,11.5825,13.63605,31.125,16.08335
+395,126,3498,3624,Spring,Year 2012,Jan,Not A Holiday,Mon,Working Day,Clear:Good,11.035847,13.13125,40.0833,14.458064
+396,324,4185,4509,Spring,Year 2012,Jan,Not A Holiday,Tues,Working Day,Clear:Good,15.99,19.06585,41.6667,17.541739
+397,304,4275,4579,Spring,Year 2012,Feb,Not A Holiday,Wed,Working Day,Clear:Good,19.235847,23.3269,50.7917,12.667489
+398,190,3571,3761,Spring,Year 2012,Feb,Not A Holiday,Thr,Working Day,Cloudy:Adequet,16.365847,19.94855,67.2917,12.541529
+399,310,3841,4151,Spring,Year 2012,Feb,Not A Holiday,Fri,Working Day,Clear:Good,12.846653,15.4673,52.6667,11.959232
+400,384,2448,2832,Spring,Year 2012,Feb,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,10.830847,13.63625,77.9583,8.167032
+401,318,2629,2947,Spring,Year 2012,Feb,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,10.899153,13.22605,68.7917,11.791732
+402,206,3578,3784,Spring,Year 2012,Feb,Not A Holiday,Mon,Working Day,Clear:Good,11.586969,14.8213,62.2174,10.3046
+403,199,4176,4375,Spring,Year 2012,Feb,Not A Holiday,Tues,Working Day,Clear:Good,14.520847,18.0552,49.625,9.874393
+404,109,2693,2802,Spring,Year 2012,Feb,Not A Holiday,Wed,Working Day,Cloudy:Adequet,10.523347,13.32105,72.2917,8.959307
+405,163,3667,3830,Spring,Year 2012,Feb,Not A Holiday,Thr,Working Day,Clear:Good,10.865,13.0994,56.2083,13.000479
+406,227,3604,3831,Spring,Year 2012,Feb,Not A Holiday,Fri,Working Day,Cloudy:Adequet,11.514153,14.6779,54,7.834243
+407,192,1977,2169,Spring,Year 2012,Feb,Not A Holiday,Sat,Not A Working Day,LightRain:Bad,9.190847,10.54335,73.125,19.416332
+408,73,1456,1529,Spring,Year 2012,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,5.2275,5.0829,46.4583,27.417204
+409,94,3328,3422,Spring,Year 2012,Feb,Not A Holiday,Mon,Working Day,Clear:Good,9.1225,11.39565,41.125,11.207961
+410,135,3787,3922,Spring,Year 2012,Feb,Not A Holiday,Tues,Working Day,Cloudy:Adequet,13.085847,16.6973,50.875,9.458993
+411,141,4028,4169,Spring,Year 2012,Feb,Not A Holiday,Wed,Working Day,Clear:Good,14.281653,17.58145,53.125,12.1672
+412,74,2931,3005,Spring,Year 2012,Feb,Not A Holiday,Thr,Working Day,Cloudy:Adequet,12.983347,16.5081,75.2917,6.125475
+413,349,3805,4154,Spring,Year 2012,Feb,Not A Holiday,Fri,Working Day,Clear:Good,14.076653,17.58145,63.4583,13.791682
+414,1435,2883,4318,Spring,Year 2012,Feb,Not A Holiday,Sat,Not A Working Day,Clear:Good,14.213347,17.77125,53.4583,12.792243
+415,618,2071,2689,Spring,Year 2012,Feb,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,11.48,13.2894,51.5833,16.958504
+416,502,2627,3129,Spring,Year 2012,Feb,Holiday,Mon,Not A Working Day,Clear:Good,11.48,13.66955,50.7826,15.348561
+417,163,3614,3777,Spring,Year 2012,Feb,Not A Holiday,Tues,Working Day,Clear:Good,11.800866,14.75565,59.4348,13.783039
+418,394,4379,4773,Spring,Year 2012,Feb,Not A Holiday,Wed,Working Day,Clear:Good,16.229153,19.63335,56.7917,15.709557
+419,516,4546,5062,Spring,Year 2012,Feb,Not A Holiday,Thr,Working Day,Clear:Good,18.620847,22.2223,55.4583,12.791171
+420,246,3241,3487,Spring,Year 2012,Feb,Not A Holiday,Fri,Working Day,Cloudy:Adequet,16.7075,20.54855,73.75,15.916989
+421,317,2415,2732,Spring,Year 2012,Feb,Not A Holiday,Sat,Not A Working Day,Clear:Good,11.924153,12.78375,39.5833,28.250014
+422,515,2874,3389,Spring,Year 2012,Feb,Not A Holiday,Sun,Not A Working Day,Clear:Good,11.445847,13.4154,41,13.750343
+423,253,4069,4322,Spring,Year 2012,Feb,Not A Holiday,Mon,Working Day,Clear:Good,15.033347,17.8977,49.0833,17.958211
+424,229,4134,4363,Spring,Year 2012,Feb,Not A Holiday,Tues,Working Day,Clear:Good,14.725847,17.67625,39.5833,12.958939
+425,65,1769,1834,Spring,Year 2012,Feb,Not A Holiday,Wed,Working Day,Cloudy:Adequet,14.118268,17.4235,80.4783,12.000839
+426,325,4665,4990,Spring,Year 2012,Mar,Not A Holiday,Thr,Working Day,Clear:Good,19.919153,23.76855,61.5417,15.208129
+427,246,2948,3194,Spring,Year 2012,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,14.486653,17.9921,65.7083,9.708568
+428,956,3110,4066,Spring,Year 2012,Mar,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,16.980847,20.6746,62.125,10.792293
+429,710,2713,3423,Spring,Year 2012,Mar,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.359153,15.15105,40.3333,22.416257
+430,203,3130,3333,Spring,Year 2012,Mar,Not A Holiday,Mon,Working Day,Clear:Good,9.976653,12.05855,50.625,15.333486
+431,221,3735,3956,Spring,Year 2012,Mar,Not A Holiday,Tues,Working Day,Clear:Good,10.591653,12.7521,45.6667,13.458625
+432,432,4484,4916,Spring,Year 2012,Mar,Not A Holiday,Wed,Working Day,Clear:Good,16.570847,19.255,51.3333,23.167193
+433,486,4896,5382,Spring,Year 2012,Mar,Not A Holiday,Thr,Working Day,Clear:Good,21.6275,26.2302,56.75,29.584721
+434,447,4122,4569,Spring,Year 2012,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,16.844153,19.85415,40.7083,27.7916
+435,968,3150,4118,Spring,Year 2012,Mar,Not A Holiday,Sat,Not A Working Day,Clear:Good,11.7875,13.88835,35.0417,15.12525
+436,1658,3253,4911,Spring,Year 2012,Mar,Not A Holiday,Sun,Not A Working Day,Clear:Good,14.831299,17.9835,47.6957,14.913329
+437,838,4460,5298,Spring,Year 2012,Mar,Not A Holiday,Mon,Working Day,Clear:Good,19.133347,22.9796,48.9167,13.916771
+438,762,5085,5847,Spring,Year 2012,Mar,Not A Holiday,Tues,Working Day,Clear:Good,23.165,27.14645,61.75,15.87565
+439,997,5315,6312,Spring,Year 2012,Mar,Not A Holiday,Wed,Working Day,Clear:Good,23.4725,27.43085,50.7083,7.709154
+440,1005,5187,6192,Spring,Year 2012,Mar,Not A Holiday,Thr,Working Day,Clear:Good,22.8575,26.64125,57.9583,10.042161
+441,548,3830,4378,Spring,Year 2012,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,17.869153,21.81145,84.2083,7.583864
+442,3155,4681,7836,Spring,Year 2012,Mar,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,21.080847,25.2523,75.5833,7.417168
+443,2207,3685,5892,Spring,Year 2012,Mar,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,19.3725,23.2,81,8.501161
+444,982,5171,6153,Spring,Year 2012,Mar,Not A Holiday,Mon,Working Day,Clear:Good,22.345,26.64105,72.875,10.875239
+445,1051,5042,6093,Spring,Year 2012,Mar,Not A Holiday,Tues,Working Day,Clear:Good,22.994153,26.92665,80.7917,8.125157
+446,1122,5108,6230,Summer,Year 2012,Mar,Not A Holiday,Wed,Working Day,Cloudy:Adequet,21.798347,25.6629,82.125,6.0004061
+447,1334,5537,6871,Summer,Year 2012,Mar,Not A Holiday,Thr,Working Day,Clear:Good,22.720847,26.57835,83.125,7.876654
+448,2469,5893,8362,Summer,Year 2012,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,24.668347,28.50335,69.4167,7.7921
+449,1033,2339,3372,Summer,Year 2012,Mar,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,20.6025,24.33665,88.5417,12.916461
+450,1532,3464,4996,Summer,Year 2012,Mar,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,17.9375,21.8744,88.0833,14.791925
+451,795,4763,5558,Summer,Year 2012,Mar,Not A Holiday,Mon,Working Day,Clear:Good,18.279153,21.9375,47.7917,25.917007
+452,531,4571,5102,Summer,Year 2012,Mar,Not A Holiday,Tues,Working Day,Clear:Good,13.256653,15.7827,29,12.541864
+453,674,5024,5698,Summer,Year 2012,Mar,Not A Holiday,Wed,Working Day,Clear:Good,19.850847,23.5475,48.125,19.541957
+454,834,5299,6133,Summer,Year 2012,Mar,Not A Holiday,Thr,Working Day,Clear:Good,20.260847,24.1152,43.9167,21.41655
+455,796,4663,5459,Summer,Year 2012,Mar,Not A Holiday,Fri,Working Day,Cloudy:Adequet,15.17,18.78105,58.0833,9.250489
+456,2301,3934,6235,Summer,Year 2012,Mar,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,17.390847,21.0854,73.8333,16.791339
+457,2347,3694,6041,Summer,Year 2012,Apr,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,17.459153,20.86435,67.625,11.541889
+458,1208,4728,5936,Summer,Year 2012,Apr,Not A Holiday,Mon,Working Day,Clear:Good,17.790433,21.37565,50.4348,20.913313
+459,1348,5424,6772,Summer,Year 2012,Apr,Not A Holiday,Tues,Working Day,Clear:Good,19.133347,23.07415,39.6667,6.708911
+460,1058,5378,6436,Summer,Year 2012,Apr,Not A Holiday,Wed,Working Day,Clear:Good,22.208347,26.6725,46.9583,12.125325
+461,1192,5265,6457,Summer,Year 2012,Apr,Not A Holiday,Thr,Working Day,Clear:Good,17.835,21.55815,37.4167,14.708443
+462,1807,4653,6460,Summer,Year 2012,Apr,Not A Holiday,Fri,Working Day,Clear:Good,16.536653,19.53835,37.7083,20.125996
+463,3252,3605,6857,Summer,Year 2012,Apr,Not A Holiday,Sat,Not A Working Day,Clear:Good,17.9375,21.30645,25.4167,18.416357
+464,2230,2939,5169,Summer,Year 2012,Apr,Not A Holiday,Sun,Not A Working Day,Clear:Good,20.5,24.62125,27.5833,15.583932
+465,905,4680,5585,Summer,Year 2012,Apr,Not A Holiday,Mon,Working Day,Clear:Good,20.055847,23.8319,31.75,23.999132
+466,819,5099,5918,Summer,Year 2012,Apr,Not A Holiday,Tues,Working Day,Clear:Good,18.313347,21.81165,43.5,16.708125
+467,482,4380,4862,Summer,Year 2012,Apr,Not A Holiday,Wed,Working Day,Clear:Good,14.296536,16.8637,46.9565,19.783358
+468,663,4746,5409,Summer,Year 2012,Apr,Not A Holiday,Thr,Working Day,Clear:Good,16.2975,19.3802,46.625,19.458743
+469,1252,5146,6398,Summer,Year 2012,Apr,Not A Holiday,Fri,Working Day,Clear:Good,18.1425,21.5904,40.8333,10.416557
+470,2795,4665,7460,Summer,Year 2012,Apr,Not A Holiday,Sat,Not A Working Day,Clear:Good,20.295,24.3998,50.2917,12.791439
+471,2846,4286,7132,Summer,Year 2012,Apr,Not A Holiday,Sun,Not A Working Day,Clear:Good,24.873347,28.69375,50.7917,15.083643
+472,1198,5172,6370,Summer,Year 2012,Apr,Holiday,Mon,Not A Working Day,Clear:Good,27.230847,30.74625,56.1667,19.083543
+473,989,5702,6691,Summer,Year 2012,Apr,Not A Holiday,Tues,Working Day,Clear:Good,24.941653,29.92435,39.0417,18.333143
+474,347,4020,4367,Summer,Year 2012,Apr,Not A Holiday,Wed,Working Day,Cloudy:Adequet,18.996653,22.8519,56.9167,11.250104
+475,846,5719,6565,Summer,Year 2012,Apr,Not A Holiday,Thr,Working Day,Clear:Good,20.431653,24.6523,61.25,4.4172564
+476,1340,5950,7290,Summer,Year 2012,Apr,Not A Holiday,Fri,Working Day,Clear:Good,21.593347,25.78875,69.4583,10.041357
+477,2541,4083,6624,Summer,Year 2012,Apr,Not A Holiday,Sat,Not A Working Day,Clear:Good,23.37,27.14605,68.2917,19.000329
+478,120,907,1027,Summer,Year 2012,Apr,Not A Holiday,Sun,Not A Working Day,LightRain:Bad,16.263347,19.4752,83.5417,23.084582
+479,195,3019,3214,Summer,Year 2012,Apr,Not A Holiday,Mon,Working Day,Cloudy:Adequet,13.188347,15.05625,76.6667,20.334232
+480,518,5115,5633,Summer,Year 2012,Apr,Not A Holiday,Tues,Working Day,Clear:Good,16.946653,20.26415,45.4167,16.708661
+481,655,5541,6196,Summer,Year 2012,Apr,Not A Holiday,Wed,Working Day,Clear:Good,19.543347,23.51585,42.7917,7.959064
+482,475,4551,5026,Summer,Year 2012,Apr,Not A Holiday,Thr,Working Day,Cloudy:Adequet,20.431653,24.17915,75.6667,11.833875
+483,1014,5219,6233,Summer,Year 2012,Apr,Not A Holiday,Fri,Working Day,Clear:Good,18.7575,22.63185,40.0833,23.291411
+484,1120,3100,4220,Summer,Year 2012,Apr,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,15.443347,18.8752,48.9583,8.708325
+485,2229,4075,6304,Summer,Year 2012,Apr,Not A Holiday,Sun,Not A Working Day,Clear:Good,18.791653,22.50605,58.7083,7.832836
+486,665,4907,5572,Summer,Year 2012,Apr,Not A Holiday,Mon,Working Day,Cloudy:Adequet,19.030847,22.8848,57,11.499746
+487,653,5087,5740,Summer,Year 2012,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,25.146653,28.85105,65.9583,10.458432
+488,667,5502,6169,Summer,Year 2012,May,Not A Holiday,Wed,Working Day,Clear:Good,23.130847,26.8948,79.7083,9.249886
+489,764,5657,6421,Summer,Year 2012,May,Not A Holiday,Thr,Working Day,Cloudy:Adequet,22.96,26.8621,76.8333,8.957632
+490,1069,5227,6296,Summer,Year 2012,May,Not A Holiday,Fri,Working Day,Clear:Good,25.7275,29.54585,73.5417,10.916846
+491,2496,4387,6883,Summer,Year 2012,May,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,25.488347,29.2304,75.6667,10.250464
+492,2135,4224,6359,Summer,Year 2012,May,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,23.0625,27.33685,74,10.041893
+493,1008,5265,6273,Summer,Year 2012,May,Not A Holiday,Mon,Working Day,Cloudy:Adequet,22.0375,26.3571,66.4167,15.458307
+494,738,4990,5728,Summer,Year 2012,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,23.848347,27.87355,68.5833,19.833943
+495,620,4097,4717,Summer,Year 2012,May,Not A Holiday,Wed,Working Day,Cloudy:Adequet,23.575,27.65125,74.4167,14.499604
+496,1026,5546,6572,Summer,Year 2012,May,Not A Holiday,Thr,Working Day,Clear:Good,20.739153,24.58915,55.2083,21.042221
+497,1319,5711,7030,Summer,Year 2012,May,Not A Holiday,Fri,Working Day,Clear:Good,21.866653,26.04165,36.0417,15.874779
+498,2622,4807,7429,Summer,Year 2012,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,23.130847,27.24085,48.0417,8.249911
+499,2172,3946,6118,Summer,Year 2012,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,25.1125,29.2619,57.625,15.082839
+500,342,2501,2843,Summer,Year 2012,May,Not A Holiday,Mon,Working Day,Cloudy:Adequet,23.506653,27.495,78.9583,14.250364
+501,625,4490,5115,Summer,Year 2012,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,25.078347,28.8202,79.4583,9.875264
+502,991,6433,7424,Summer,Year 2012,May,Not A Holiday,Wed,Working Day,Clear:Good,26.103347,29.79875,69.7917,8.208304
+503,1242,6142,7384,Summer,Year 2012,May,Not A Holiday,Thr,Working Day,Clear:Good,24.326653,28.63065,52,15.374825
+504,1521,6118,7639,Summer,Year 2012,May,Not A Holiday,Fri,Working Day,Clear:Good,23.130847,27.55605,52.3333,9.166739
+505,3410,4884,8294,Summer,Year 2012,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,24.6,28.3454,45.625,5.626325
+506,2704,4425,7129,Summer,Year 2012,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,25.454153,29.19835,53.0417,17.042589
+507,630,3729,4359,Summer,Year 2012,May,Not A Holiday,Mon,Working Day,Cloudy:Adequet,24.531653,28.28335,81.125,15.624668
+508,819,5254,6073,Summer,Year 2012,May,Not A Holiday,Tues,Working Day,Cloudy:Adequet,25.215,29.04125,76.5833,7.917189
+509,766,4494,5260,Summer,Year 2012,May,Not A Holiday,Wed,Working Day,Cloudy:Adequet,25.488347,29.2306,77.4583,6.834
+510,1059,5711,6770,Summer,Year 2012,May,Not A Holiday,Thr,Working Day,Clear:Good,26.855,30.335,71.6667,11.584032
+511,1417,5317,6734,Summer,Year 2012,May,Not A Holiday,Fri,Working Day,Clear:Good,27.88,31.37645,74.7083,9.41685
+512,2855,3681,6536,Summer,Year 2012,May,Not A Holiday,Sat,Not A Working Day,Clear:Good,28.3925,32.1348,73.25,13.332464
+513,3283,3308,6591,Summer,Year 2012,May,Not A Holiday,Sun,Not A Working Day,Clear:Good,28.29,32.07125,69.7083,14.416457
+514,2557,3486,6043,Summer,Year 2012,May,Holiday,Mon,Not A Working Day,Clear:Good,29.2125,33.965,67.625,13.166907
+515,880,4863,5743,Summer,Year 2012,May,Not A Holiday,Tues,Working Day,Clear:Good,29.6225,33.6496,68.4583,19.7918
+516,745,6110,6855,Summer,Year 2012,May,Not A Holiday,Wed,Working Day,Cloudy:Adequet,26.923347,30.55645,67,9.000043
+517,1100,6238,7338,Summer,Year 2012,May,Not A Holiday,Thr,Working Day,Clear:Good,27.88,31.56645,49.2917,13.083693
+518,533,3594,4127,Summer,Year 2012,June,Not A Holiday,Fri,Working Day,Cloudy:Adequet,26.820847,30.3981,75.5417,15.916721
+519,2795,5325,8120,Summer,Year 2012,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,23.916653,28.3144,54.9167,12.499654
+520,2494,5147,7641,Summer,Year 2012,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,24.7025,28.75665,49.3333,12.333829
+521,1071,5927,6998,Summer,Year 2012,June,Not A Holiday,Mon,Working Day,Clear:Good,24.4975,28.91415,48.7083,19.083811
+522,968,6033,7001,Summer,Year 2012,June,Not A Holiday,Tues,Working Day,Cloudy:Adequet,22.174153,26.2946,61.3333,14.041525
+523,1027,6028,7055,Summer,Year 2012,June,Not A Holiday,Wed,Working Day,Clear:Good,22.720847,27.1146,61.125,5.167375
+524,1038,6456,7494,Summer,Year 2012,June,Not A Holiday,Thr,Working Day,Clear:Good,24.7025,28.4721,56.7083,10.54245
+525,1488,6248,7736,Summer,Year 2012,June,Not A Holiday,Fri,Working Day,Clear:Good,26.615847,29.8931,46.7917,11.750661
+526,2708,4790,7498,Summer,Year 2012,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,29.144153,32.41835,43.7083,9.667229
+527,2224,4374,6598,Summer,Year 2012,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,29.793347,33.17585,53.8333,8.959307
+528,1017,5647,6664,Summer,Year 2012,June,Not A Holiday,Mon,Working Day,Cloudy:Adequet,29.554153,32.98605,58.7917,13.916771
+529,477,4495,4972,Summer,Year 2012,June,Not A Holiday,Tues,Working Day,Cloudy:Adequet,26.786653,29.89375,83.3333,14.374582
+530,1173,6248,7421,Summer,Year 2012,June,Not A Holiday,Wed,Working Day,Clear:Good,26.889153,30.55585,58.2083,22.999693
+531,1180,6183,7363,Summer,Year 2012,June,Not A Holiday,Thr,Working Day,Clear:Good,26.581653,31.21915,56.9583,17.000111
+532,1563,6102,7665,Summer,Year 2012,June,Not A Holiday,Fri,Working Day,Clear:Good,26.205847,29.9877,58.9583,11.833339
+533,2963,4739,7702,Summer,Year 2012,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,25.898347,29.7354,50.4167,11.166689
+534,2634,4344,6978,Summer,Year 2012,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,24.2925,28.59875,59.875,9.708568
+535,653,4446,5099,Summer,Year 2012,June,Not A Holiday,Mon,Working Day,Cloudy:Adequet,23.301653,27.2421,77.7917,11.707982
+536,968,5857,6825,Summer,Year 2012,June,Not A Holiday,Tues,Working Day,Clear:Good,28.221653,32.7346,69,9.917139
+537,872,5339,6211,Summer,Year 2012,June,Not A Holiday,Wed,Working Day,Clear:Good,32.0825,36.04875,59.2083,7.625404
+538,778,5127,5905,Fall,Year 2012,June,Not A Holiday,Thr,Working Day,Clear:Good,33.039153,37.6271,56.7917,7.958729
+539,964,4859,5823,Fall,Year 2012,June,Not A Holiday,Fri,Working Day,Clear:Good,31.8775,36.20605,57.375,12.250414
+540,2657,4801,7458,Fall,Year 2012,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,29.998347,32.6396,53.4583,12.041307
+541,2551,4340,6891,Fall,Year 2012,June,Not A Holiday,Sun,Not A Working Day,Clear:Good,30.476653,33.7127,47.9167,9.750175
+542,1139,5640,6779,Fall,Year 2012,June,Not A Holiday,Mon,Working Day,Clear:Good,29.349153,32.7021,50.4167,20.125661
+543,1077,6365,7442,Fall,Year 2012,June,Not A Holiday,Tues,Working Day,Clear:Good,25.864153,29.7352,37.3333,23.292014
+544,1077,6258,7335,Fall,Year 2012,June,Not A Holiday,Wed,Working Day,Clear:Good,28.5975,32.0396,36,18.208925
+545,921,5958,6879,Fall,Year 2012,June,Not A Holiday,Thr,Working Day,Clear:Good,30.715847,33.7756,42.25,11.50055
+546,829,4634,5463,Fall,Year 2012,June,Not A Holiday,Fri,Working Day,Clear:Good,34.200847,39.33065,48.875,11.082939
+547,1455,4232,5687,Fall,Year 2012,June,Not A Holiday,Sat,Not A Working Day,Clear:Good,31.365,34.3754,60.125,10.791757
+548,1421,4110,5531,Fall,Year 2012,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,33.449153,37.53145,51.875,11.291443
+549,904,5323,6227,Fall,Year 2012,Jul,Not A Holiday,Mon,Working Day,Clear:Good,32.048347,35.1019,44.7083,13.082889
+550,1052,5608,6660,Fall,Year 2012,Jul,Not A Holiday,Tues,Working Day,Clear:Good,32.014153,35.1325,49.2083,8.457879
+551,2562,4841,7403,Fall,Year 2012,Jul,Holiday,Wed,Not A Working Day,Clear:Good,32.355847,36.61685,53.875,9.04165
+552,1405,4836,6241,Fall,Year 2012,Jul,Not A Holiday,Thr,Working Day,Clear:Good,33.9275,38.06835,45.7917,12.999943
+553,1366,4841,6207,Fall,Year 2012,Jul,Not A Holiday,Fri,Working Day,Clear:Good,33.961653,37.62665,45.0833,9.791514
+554,1448,3392,4840,Fall,Year 2012,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,35.328347,40.24565,49.2083,10.958118
+555,1203,3469,4672,Fall,Year 2012,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,33.7225,39.5198,57.375,8.417143
+556,998,5571,6569,Fall,Year 2012,Jul,Not A Holiday,Mon,Working Day,Cloudy:Adequet,29.144153,32.7027,68.3333,12.125325
+557,954,5336,6290,Fall,Year 2012,Jul,Not A Holiday,Tues,Working Day,Cloudy:Adequet,29.554153,33.2398,66.75,10.166379
+558,975,6289,7264,Fall,Year 2012,Jul,Not A Holiday,Wed,Working Day,Clear:Good,29.383347,32.51355,63.3333,10.166111
+559,1032,6414,7446,Fall,Year 2012,Jul,Not A Holiday,Thr,Working Day,Clear:Good,29.349153,32.73415,52.9583,9.833925
+560,1511,5988,7499,Fall,Year 2012,Jul,Not A Holiday,Fri,Working Day,Cloudy:Adequet,29.998347,33.39665,48.5833,5.41695
+561,2355,4614,6969,Fall,Year 2012,Jul,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,28.836653,33.3021,69.9167,9.626493
+562,1920,4111,6031,Fall,Year 2012,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,30.579153,35.2598,71.7917,11.166689
+563,1088,5742,6830,Fall,Year 2012,Jul,Not A Holiday,Mon,Working Day,Clear:Good,31.296653,36.20625,64.5,11.000529
+564,921,5865,6786,Fall,Year 2012,Jul,Not A Holiday,Tues,Working Day,Clear:Good,33.551653,37.78415,50.5833,7.666743
+565,799,4914,5713,Fall,Year 2012,Jul,Not A Holiday,Wed,Working Day,Clear:Good,32.526653,37.27915,57.7083,9.208614
+566,888,5703,6591,Fall,Year 2012,Jul,Not A Holiday,Thr,Working Day,Clear:Good,31.57,35.7321,60.0417,11.083743
+567,747,5123,5870,Fall,Year 2012,Jul,Not A Holiday,Fri,Working Day,Cloudy:Adequet,27.299153,30.65125,84.4167,14.000789
+568,1264,3195,4459,Fall,Year 2012,Jul,Not A Holiday,Sat,Not A Working Day,LightRain:Bad,24.429153,27.4956,86.5417,14.2911
+569,2544,4866,7410,Fall,Year 2012,Jul,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,27.3675,31.15625,76.25,6.2926936
+570,1135,5831,6966,Fall,Year 2012,Jul,Not A Holiday,Mon,Working Day,Clear:Good,30.408347,34.50085,69.4167,9.291761
+571,1140,6452,7592,Fall,Year 2012,Jul,Not A Holiday,Tues,Working Day,Clear:Good,30.784153,35.3225,65.5,14.167418
+572,1383,6790,8173,Fall,Year 2012,Jul,Not A Holiday,Wed,Working Day,Clear:Good,29.690847,32.7027,45,11.0416
+573,1036,5825,6861,Fall,Year 2012,Jul,Not A Holiday,Thr,Working Day,Clear:Good,31.843347,36.96315,59.6667,19.082471
+574,1259,5645,6904,Fall,Year 2012,Jul,Not A Holiday,Fri,Working Day,Clear:Good,32.048347,36.71085,59.4583,10.250464
+575,2234,4451,6685,Fall,Year 2012,Jul,Not A Holiday,Sat,Not A Working Day,Clear:Good,30.989153,34.8802,61.3333,10.54245
+576,2153,4444,6597,Fall,Year 2012,Jul,Not A Holiday,Sun,Not A Working Day,Clear:Good,29.588347,33.39665,62.375,11.416532
+577,1040,6065,7105,Fall,Year 2012,Jul,Not A Holiday,Mon,Working Day,Clear:Good,29.964153,34.24935,66.875,10.292339
+578,968,6248,7216,Fall,Year 2012,Jul,Not A Holiday,Tues,Working Day,Clear:Good,29.246653,33.1448,70.4167,11.083475
+579,1074,6506,7580,Fall,Year 2012,Aug,Not A Holiday,Wed,Working Day,Clear:Good,29.4175,33.3654,67.75,9.458993
+580,983,6278,7261,Fall,Year 2012,Aug,Not A Holiday,Thr,Working Day,Clear:Good,30.8525,35.3544,65.9583,8.666718
+581,1328,5847,7175,Fall,Year 2012,Aug,Not A Holiday,Fri,Working Day,Cloudy:Adequet,31.399153,36.14335,64.25,14.458064
+582,2345,4479,6824,Fall,Year 2012,Aug,Not A Holiday,Sat,Not A Working Day,Clear:Good,32.526653,37.56335,61.3333,17.249686
+583,1707,3757,5464,Fall,Year 2012,Aug,Not A Holiday,Sun,Not A Working Day,Clear:Good,31.535847,36.55395,65.25,19.458207
+584,1233,5780,7013,Fall,Year 2012,Aug,Not A Holiday,Mon,Working Day,Cloudy:Adequet,30.8525,35.5123,65.4167,8.666718
+585,1278,5995,7273,Fall,Year 2012,Aug,Not A Holiday,Tues,Working Day,Cloudy:Adequet,30.169153,34.88105,70.375,7.832836
+586,1263,6271,7534,Fall,Year 2012,Aug,Not A Holiday,Wed,Working Day,Cloudy:Adequet,30.75,35.38585,67.2917,7.4169
+587,1196,6090,7286,Fall,Year 2012,Aug,Not A Holiday,Thr,Working Day,Clear:Good,30.989153,34.9754,62.0417,10.4587
+588,1065,4721,5786,Fall,Year 2012,Aug,Not A Holiday,Fri,Working Day,Cloudy:Adequet,29.349153,33.3971,71.5833,16.000471
+589,2247,4052,6299,Fall,Year 2012,Aug,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,28.3925,31.91335,73.2917,13.834093
+590,2182,4362,6544,Fall,Year 2012,Aug,Not A Holiday,Sun,Not A Working Day,Clear:Good,28.734153,32.22895,53.0417,8.208304
+591,1207,5676,6883,Fall,Year 2012,Aug,Not A Holiday,Mon,Working Day,Clear:Good,29.554153,33.1127,54.5417,9.126204
+592,1128,5656,6784,Fall,Year 2012,Aug,Not A Holiday,Tues,Working Day,Clear:Good,29.793347,33.83895,68.6667,11.333586
+593,1198,6149,7347,Fall,Year 2012,Aug,Not A Holiday,Wed,Working Day,Clear:Good,28.973347,32.70185,61.9583,11.374657
+594,1338,6267,7605,Fall,Year 2012,Aug,Not A Holiday,Thr,Working Day,Clear:Good,29.485847,32.7344,51.9167,9.500332
+595,1483,5665,7148,Fall,Year 2012,Aug,Not A Holiday,Fri,Working Day,Clear:Good,29.656653,12.12,57.0833,15.500718
+596,2827,5038,7865,Fall,Year 2012,Aug,Not A Holiday,Sat,Not A Working Day,Clear:Good,27.811653,30.90355,60.3333,11.917089
+597,1208,3341,4549,Fall,Year 2012,Aug,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,26.069153,30.1777,71.1667,5.79215
+598,1026,5504,6530,Fall,Year 2012,Aug,Not A Holiday,Mon,Working Day,Cloudy:Adequet,26.069153,29.79835,73.4167,8.708593
+599,1081,5925,7006,Fall,Year 2012,Aug,Not A Holiday,Tues,Working Day,Clear:Good,26.615847,30.05125,67.375,4.8756436
+600,1094,6281,7375,Fall,Year 2012,Aug,Not A Holiday,Wed,Working Day,Clear:Good,27.3675,31.0927,67.7083,4.7089811
+601,1363,6402,7765,Fall,Year 2012,Aug,Not A Holiday,Thr,Working Day,Clear:Good,28.529153,31.8504,63.5833,5.6679186
+602,1325,6257,7582,Fall,Year 2012,Aug,Not A Holiday,Fri,Working Day,Cloudy:Adequet,28.8025,32.355,61.5,4.8337686
+603,1829,4224,6053,Fall,Year 2012,Aug,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,27.128347,30.9348,71.2917,16.375336
+604,1483,3772,5255,Fall,Year 2012,Aug,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,26.786653,29.7998,84.5833,15.333486
+605,989,5928,6917,Fall,Year 2012,Aug,Not A Holiday,Mon,Working Day,Clear:Good,28.836653,32.7344,73.0417,8.625111
+606,935,6105,7040,Fall,Year 2012,Aug,Not A Holiday,Tues,Working Day,Clear:Good,29.861653,33.3025,62,12.791975
+607,1177,6520,7697,Fall,Year 2012,Aug,Not A Holiday,Wed,Working Day,Clear:Good,28.085,31.78665,55.2083,7.541654
+608,1172,6541,7713,Fall,Year 2012,Aug,Not A Holiday,Thr,Working Day,Clear:Good,28.973347,32.63895,59.0417,5.1668189
+609,1433,5917,7350,Fall,Year 2012,Aug,Not A Holiday,Fri,Working Day,Clear:Good,31.330847,34.47,58.75,11.291711
+610,2352,3788,6140,Fall,Year 2012,Sept,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,30.886653,35.1327,63.8333,7.583529
+611,2613,3197,5810,Fall,Year 2012,Sept,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,28.563347,32.45,81.5,4.2927436
+612,1965,4069,6034,Fall,Year 2012,Sept,Holiday,Mon,Not A Working Day,Clear:Good,29.0075,33.08145,79.0833,10.125107
+613,867,5997,6864,Fall,Year 2012,Sept,Not A Holiday,Tues,Working Day,Clear:Good,29.759153,34.3444,75.5,15.833507
+614,832,6280,7112,Fall,Year 2012,Sept,Not A Holiday,Wed,Working Day,Clear:Good,30.203347,35.44915,74.125,12.583136
+615,611,5592,6203,Fall,Year 2012,Sept,Not A Holiday,Thr,Working Day,Cloudy:Adequet,28.563347,32.76645,81.0417,9.542207
+616,1045,6459,7504,Fall,Year 2012,Sept,Not A Holiday,Fri,Working Day,Clear:Good,28.836653,32.8602,73.625,11.500282
+617,1557,4419,5976,Fall,Year 2012,Sept,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,27.025847,30.55605,79.9167,18.833968
+618,2570,5657,8227,Fall,Year 2012,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,25.01,28.94625,54.75,15.041232
+619,1118,6407,7525,Fall,Year 2012,Sept,Not A Holiday,Mon,Working Day,Clear:Good,23.916653,28.2827,50.375,17.333771
+620,1070,6697,7767,Fall,Year 2012,Sept,Not A Holiday,Tues,Working Day,Clear:Good,23.6775,27.7146,52,6.1676314
+621,1050,6820,7870,Fall,Year 2012,Sept,Not A Holiday,Wed,Working Day,Clear:Good,24.565847,28.50375,57.7083,8.833682
+622,1054,6750,7804,Fall,Year 2012,Sept,Not A Holiday,Thr,Working Day,Clear:Good,25.1125,28.9779,63.7083,5.5422936
+623,1379,6630,8009,Fall,Year 2012,Sept,Not A Holiday,Fri,Working Day,Clear:Good,25.966653,29.70415,67.25,6.958821
+624,3160,5554,8714,Fall,Year 2012,Sept,Not A Holiday,Sat,Not A Working Day,Clear:Good,24.941653,29.29335,50.1667,16.583907
+625,2166,5167,7333,Fall,Year 2012,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,23.78,28.15625,57,6.0422811
+626,1022,5847,6869,Fall,Year 2012,Sept,Not A Holiday,Mon,Working Day,Cloudy:Adequet,23.814153,27.6525,73.4583,10.166714
+627,371,3702,4073,Fall,Year 2012,Sept,Not A Holiday,Tues,Working Day,Cloudy:Adequet,25.556653,28.25335,87.25,23.958329
+628,788,6803,7591,Fall,Year 2012,Sept,Not A Holiday,Wed,Working Day,Clear:Good,22.6525,27.0202,53.6667,14.416725
+629,939,6781,7720,Fall,Year 2012,Sept,Not A Holiday,Thr,Working Day,Clear:Good,22.413347,26.6096,61.8333,7.917189
+630,1250,6917,8167,Fall,Year 2012,Sept,Not A Holiday,Fri,Working Day,Clear:Good,24.565847,28.59855,66.875,10.333343
+631,2512,5883,8395,Fall,Year 2012,Sept,Not A Holiday,Sat,Not A Working Day,Clear:Good,26.65,30.5244,64.6667,19.000061
+632,2454,5453,7907,Winter,Year 2012,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,21.695847,25.94665,46.7083,14.958286
+633,1001,6435,7436,Winter,Year 2012,Sept,Not A Holiday,Mon,Working Day,Clear:Good,21.080847,25.12565,49.2917,9.541068
+634,845,6693,7538,Winter,Year 2012,Sept,Not A Holiday,Tues,Working Day,Clear:Good,22.55,27.20895,57,15.833507
+635,787,6946,7733,Winter,Year 2012,Sept,Not A Holiday,Wed,Working Day,Clear:Good,26.035,29.83065,63.0833,16.3748
+636,751,6642,7393,Winter,Year 2012,Sept,Not A Holiday,Thr,Working Day,Cloudy:Adequet,26.65,30.39875,69.0833,9.000914
+637,1045,6370,7415,Winter,Year 2012,Sept,Not A Holiday,Fri,Working Day,Cloudy:Adequet,25.385847,29.29315,69,10.999993
+638,2589,5966,8555,Winter,Year 2012,Sept,Not A Holiday,Sat,Not A Working Day,Clear:Good,22.2425,26.5148,54.2917,15.249468
+639,2015,4874,6889,Winter,Year 2012,Sept,Not A Holiday,Sun,Not A Working Day,Clear:Good,21.593347,25.88315,58.3333,9.042186
+640,763,6015,6778,Winter,Year 2012,Oct,Not A Holiday,Mon,Working Day,Cloudy:Adequet,21.354153,25.6,64.9167,6.0838814
+641,315,4324,4639,Winter,Year 2012,Oct,Not A Holiday,Tues,Working Day,LightRain:Bad,24.224153,27.11665,87.1667,6.999825
+642,728,6844,7572,Winter,Year 2012,Oct,Not A Holiday,Wed,Working Day,Cloudy:Adequet,26.9575,29.95665,79.375,4.4585686
+643,891,6437,7328,Winter,Year 2012,Oct,Not A Holiday,Thr,Working Day,Cloudy:Adequet,26.9575,30.39875,72.2917,7.875582
+644,1516,6640,8156,Winter,Year 2012,Oct,Not A Holiday,Fri,Working Day,Clear:Good,25.215,29.00935,62.75,7.12545
+645,3031,4934,7965,Winter,Year 2012,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,22.720847,26.92605,66.4167,17.957675
+646,781,2729,3510,Winter,Year 2012,Oct,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,17.049153,20.99065,70.8333,9.457854
+647,874,4604,5478,Winter,Year 2012,Oct,Holiday,Mon,Not A Working Day,Cloudy:Adequet,15.716653,19.3804,70.9583,12.708493
+648,601,5791,6392,Winter,Year 2012,Oct,Not A Holiday,Tues,Working Day,Cloudy:Adequet,18.313347,21.9056,76.1667,12.7501
+649,780,6911,7691,Winter,Year 2012,Oct,Not A Holiday,Wed,Working Day,Clear:Good,21.080847,25.1571,63.0833,12.584007
+650,834,6736,7570,Winter,Year 2012,Oct,Not A Holiday,Thr,Working Day,Clear:Good,17.835,21.55835,46.3333,12.166932
+651,1060,6222,7282,Winter,Year 2012,Oct,Not A Holiday,Fri,Working Day,Clear:Good,17.9375,21.65355,53.9167,15.751164
+652,2252,4857,7109,Winter,Year 2012,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,16.126653,19.5698,49.4583,9.791514
+653,2080,4559,6639,Winter,Year 2012,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,21.388347,25.4102,64.0417,18.667004
+654,760,5115,5875,Winter,Year 2012,Oct,Not A Holiday,Mon,Working Day,Cloudy:Adequet,23.028347,26.9575,70.75,19.834479
+655,922,6612,7534,Winter,Year 2012,Oct,Not A Holiday,Tues,Working Day,Clear:Good,19.201653,23.0423,55.8333,12.208807
+656,979,6482,7461,Winter,Year 2012,Oct,Not A Holiday,Wed,Working Day,Clear:Good,18.689153,22.5054,69.2917,6.791857
+657,1008,6501,7509,Winter,Year 2012,Oct,Not A Holiday,Thr,Working Day,Cloudy:Adequet,21.4225,25.63125,72.8333,15.874779
+658,753,4671,5424,Winter,Year 2012,Oct,Not A Holiday,Fri,Working Day,Cloudy:Adequet,23.096653,26.8948,81.5,9.041918
+659,2806,5284,8090,Winter,Year 2012,Oct,Not A Holiday,Sat,Not A Working Day,Clear:Good,19.850847,23.6421,57.2917,7.874979
+660,2132,4692,6824,Winter,Year 2012,Oct,Not A Holiday,Sun,Not A Working Day,Clear:Good,19.030847,22.82145,51,11.125618
+661,830,6228,7058,Winter,Year 2012,Oct,Not A Holiday,Mon,Working Day,Clear:Good,19.9875,24.1471,56.8333,5.4593811
+662,841,6625,7466,Winter,Year 2012,Oct,Not A Holiday,Tues,Working Day,Clear:Good,22.310847,26.5152,64.1667,6.3345686
+663,795,6898,7693,Winter,Year 2012,Oct,Not A Holiday,Wed,Working Day,Clear:Good,24.0875,27.93605,63.625,4.8762064
+664,875,6484,7359,Winter,Year 2012,Oct,Not A Holiday,Thr,Working Day,Cloudy:Adequet,22.55,26.4844,80.0417,8.333125
+665,1182,6262,7444,Winter,Year 2012,Oct,Not A Holiday,Fri,Working Day,Cloudy:Adequet,22.379153,26.1375,80.7083,8.875289
+666,2643,5209,7852,Winter,Year 2012,Oct,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,21.73,25.75665,72,15.791364
+667,998,3461,4459,Winter,Year 2012,Oct,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,19.5775,23.38855,69.4583,26.666536
+668,2,20,22,Winter,Year 2012,Oct,Not A Holiday,Mon,Working Day,LightRain:Bad,18.04,21.97,88,23.9994
+669,87,1009,1096,Winter,Year 2012,Oct,Not A Holiday,Tues,Working Day,Cloudy:Adequet,13.045462,15.49545,82.5455,14.271603
+670,419,5147,5566,Winter,Year 2012,Oct,Not A Holiday,Wed,Working Day,Cloudy:Adequet,14.6575,18.055,66.6667,11.166689
+671,466,5520,5986,Winter,Year 2012,Nov,Not A Holiday,Thr,Working Day,Cloudy:Adequet,14.999153,18.4971,58.1667,10.542182
+672,618,5229,5847,Winter,Year 2012,Nov,Not A Holiday,Fri,Working Day,Clear:Good,14.555,17.8021,52.2083,17.833725
+673,1029,4109,5138,Winter,Year 2012,Nov,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,14.076653,16.1923,49.125,18.125443
+674,1201,3906,5107,Winter,Year 2012,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,13.359153,16.4769,53.2917,12.000236
+675,378,4881,5259,Winter,Year 2012,Nov,Not A Holiday,Mon,Working Day,Clear:Good,13.085847,15.40375,49.4167,15.833775
+676,466,5220,5686,Winter,Year 2012,Nov,Not A Holiday,Tues,Working Day,Clear:Good,11.514153,14.07835,56.7083,11.625371
+677,326,4709,5035,Winter,Year 2012,Nov,Not A Holiday,Wed,Working Day,Cloudy:Adequet,12.129153,13.73105,54.75,20.375236
+678,340,4975,5315,Winter,Year 2012,Nov,Not A Holiday,Thr,Working Day,Clear:Good,14.439134,17.09455,33.3478,23.304945
+679,709,5283,5992,Winter,Year 2012,Nov,Not A Holiday,Fri,Working Day,Clear:Good,14.828347,17.77065,54.0833,14.375386
+680,2090,4446,6536,Winter,Year 2012,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,15.955847,19.69685,64.5417,3.8756686
+681,2290,4562,6852,Winter,Year 2012,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,17.254153,21.08565,65.9167,8.5425
+682,1097,5172,6269,Winter,Year 2012,Nov,Holiday,Mon,Not A Working Day,Clear:Good,19.885,23.76915,74.1667,11.625639
+683,327,3767,4094,Winter,Year 2012,Nov,Not A Holiday,Tues,Working Day,Cloudy:Adequet,14.076653,16.16125,66.2917,22.917082
+684,373,5122,5495,Winter,Year 2012,Nov,Not A Holiday,Wed,Working Day,Clear:Good,11.855847,14.07815,55.2083,13.374875
+685,320,5125,5445,Winter,Year 2012,Nov,Not A Holiday,Thr,Working Day,Cloudy:Adequet,13.188347,16.2246,62.0417,10.250129
+686,484,5214,5698,Winter,Year 2012,Nov,Not A Holiday,Fri,Working Day,Clear:Good,14.145,17.3602,52.4583,11.458675
+687,1313,4316,5629,Winter,Year 2012,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,13.325,16.31915,54.5417,12.041843
+688,922,3747,4669,Winter,Year 2012,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,14.0425,16.8873,69.2917,15.250004
+689,449,5050,5499,Winter,Year 2012,Nov,Not A Holiday,Mon,Working Day,Cloudy:Adequet,15.614153,18.78105,62.3333,15.749489
+690,534,5100,5634,Winter,Year 2012,Nov,Not A Holiday,Tues,Working Day,Cloudy:Adequet,15.340847,19.03335,68.5,5.542575
+691,615,4531,5146,Winter,Year 2012,Nov,Not A Holiday,Wed,Working Day,Clear:Good,14.486653,18.2446,61.375,6.917482
+692,955,1470,2425,Winter,Year 2012,Nov,Holiday,Thr,Not A Working Day,Clear:Good,13.94,17.51855,58.0417,3.5423436
+693,1603,2307,3910,Winter,Year 2012,Nov,Not A Holiday,Fri,Working Day,Clear:Good,15.101653,18.93895,56.875,9.917407
+694,532,1745,2277,Winter,Year 2012,Nov,Not A Holiday,Sat,Not A Working Day,Clear:Good,11.411653,12.4371,40.4583,25.250357
+695,309,2115,2424,Winter,Year 2012,Nov,Not A Holiday,Sun,Not A Working Day,Clear:Good,10.079153,12.87915,46.8333,10.0835
+696,337,4750,5087,Winter,Year 2012,Nov,Not A Holiday,Mon,Working Day,Clear:Good,12.846653,16.9502,53.5417,3.12555
+697,123,3836,3959,Winter,Year 2012,Nov,Not A Holiday,Tues,Working Day,Cloudy:Adequet,11.958347,14.0779,78.6667,15.916654
+698,198,5062,5260,Winter,Year 2012,Nov,Not A Holiday,Wed,Working Day,Clear:Good,12.163347,14.4881,50.625,14.125007
+699,243,5080,5323,Winter,Year 2012,Nov,Not A Holiday,Thr,Working Day,Clear:Good,11.51567,14.9211,55.5652,7.739974
+700,362,5306,5668,Winter,Year 2012,Nov,Not A Holiday,Fri,Working Day,Clear:Good,12.231653,16.19335,64.9583,3.9175436
+701,951,4240,5191,Winter,Year 2012,Dec,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,12.231653,15.8452,80.6667,4.0001814
+702,892,3757,4649,Winter,Year 2012,Dec,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,14.2475,17.9604,82.3333,8.333393
+703,555,5679,6234,Winter,Year 2012,Dec,Not A Holiday,Mon,Working Day,Clear:Good,18.5525,22.7898,76.75,5.5422936
+704,551,6055,6606,Winter,Year 2012,Dec,Not A Holiday,Tues,Working Day,Clear:Good,19.509153,23.4527,73.375,11.666643
+705,331,5398,5729,Winter,Year 2012,Dec,Not A Holiday,Wed,Working Day,Clear:Good,17.971653,21.4006,48.5,21.709407
+706,340,5035,5375,Winter,Year 2012,Dec,Not A Holiday,Thr,Working Day,Clear:Good,10.489153,12.9102,50.875,11.708518
+707,349,4659,5008,Winter,Year 2012,Dec,Not A Holiday,Fri,Working Day,Cloudy:Adequet,13.154153,16.0979,76.4167,8.7502
+708,1153,4429,5582,Winter,Year 2012,Dec,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,15.648347,19.4754,91.125,6.792393
+709,441,2787,3228,Winter,Year 2012,Dec,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,15.750847,19.5073,90.5417,10.584325
+710,329,4841,5170,Winter,Year 2012,Dec,Not A Holiday,Mon,Working Day,Cloudy:Adequet,17.869153,21.77875,92.5,12.750636
+711,282,5219,5501,Winter,Year 2012,Dec,Not A Holiday,Tues,Working Day,Cloudy:Adequet,14.486653,16.91815,59.6667,19.834479
+712,310,5009,5319,Winter,Year 2012,Dec,Not A Holiday,Wed,Working Day,Cloudy:Adequet,12.1975,14.8669,53.8333,10.916779
+713,425,5107,5532,Winter,Year 2012,Dec,Not A Holiday,Thr,Working Day,Clear:Good,12.129153,14.7094,48.5833,11.666643
+714,429,5182,5611,Winter,Year 2012,Dec,Not A Holiday,Fri,Working Day,Clear:Good,11.548347,14.7096,64.2917,8.792343
+715,767,4280,5047,Winter,Year 2012,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,13.290847,16.91915,65.0417,7.12545
+716,538,3248,3786,Winter,Year 2012,Dec,Not A Holiday,Sun,Not A Working Day,Cloudy:Adequet,14.8625,18.4969,83.875,6.749714
+717,212,4373,4585,Winter,Year 2012,Dec,Not A Holiday,Mon,Working Day,Cloudy:Adequet,16.126653,20.075,90.7083,6.5833061
+718,433,5124,5557,Winter,Year 2012,Dec,Not A Holiday,Tues,Working Day,Clear:Good,16.844153,20.4854,66.625,14.834068
+719,333,4934,5267,Winter,Year 2012,Dec,Not A Holiday,Wed,Working Day,Clear:Good,13.6325,17.1081,62.5417,12.334164
+720,314,3814,4128,Winter,Year 2012,Dec,Not A Holiday,Thr,Working Day,Cloudy:Adequet,13.53,16.76085,66.7917,8.875021
+721,221,3402,3623,Spring,Year 2012,Dec,Not A Holiday,Fri,Working Day,Cloudy:Adequet,13.393347,15.08835,55.6667,25.083661
+722,205,1544,1749,Spring,Year 2012,Dec,Not A Holiday,Sat,Not A Working Day,Clear:Good,10.899153,11.80565,44.125,27.292182
+723,408,1379,1787,Spring,Year 2012,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,10.079153,12.97355,51.5417,8.916561
+724,174,746,920,Spring,Year 2012,Dec,Not A Holiday,Mon,Working Day,Cloudy:Adequet,9.483464,12.945,79.1304,5.1744368
+725,440,573,1013,Spring,Year 2012,Dec,Holiday,Tues,Not A Working Day,Cloudy:Adequet,11.943464,14.72325,73.4783,11.304642
+726,9,432,441,Spring,Year 2012,Dec,Not A Holiday,Wed,Working Day,LightRain:Bad,9.976653,11.01665,82.3333,21.208582
+727,247,1867,2114,Spring,Year 2012,Dec,Not A Holiday,Thr,Working Day,Cloudy:Adequet,10.420847,11.3321,65.2917,23.458911
+728,644,2451,3095,Spring,Year 2012,Dec,Not A Holiday,Fri,Working Day,Cloudy:Adequet,10.386653,12.7523,59,10.416557
+729,159,1182,1341,Spring,Year 2012,Dec,Not A Holiday,Sat,Not A Working Day,Cloudy:Adequet,10.386653,12.12,75.2917,8.333661
+730,364,1432,1796,Spring,Year 2012,Dec,Not A Holiday,Sun,Not A Working Day,Clear:Good,10.489153,11.585,48.3333,23.500518
+731,439,2290,2729,Spring,Year 2012,Dec,Not A Holiday,Mon,Working Day,Cloudy:Adequet,8.849153,11.17435,57.75,10.374682
